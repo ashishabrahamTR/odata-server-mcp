@@ -147,7 +147,16 @@ class ODataServer {
 
           try {
             // Build query parameters
-            const default_locator = year === 2024 ? "2517KC" : "9506JP";
+            let default_locator;
+            if (taxType === '1120') {
+              default_locator = "7253JG";
+            } else if (year === 2024 && taxType === '1040') {
+              default_locator = "2517KC";
+            } else if (year === 2023 && taxType === '1040') {
+              default_locator = "9506JP";
+            } else {
+              default_locator = "9506JP"; // Default case for other years/tax types
+            }
             const use_locator = locator || default_locator;
             
             const params: any = {
