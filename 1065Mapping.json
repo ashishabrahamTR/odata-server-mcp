@@ -1,0 +1,3322 @@
+[
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "UNRECAPTURED 1250 GAIN",
+    "fieldDescription": "Unrecaptured section 1250 gain",
+    "formName": "SCHEDULE K",
+    "eorg": "15.609.50"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCRUAL METHOD ACCOUNTING",
+    "fieldDescription": "Enter X if this return uses a accrual accounting method",
+    "formName": "FORM 1065",
+    "eorg": "BASACCURALB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "AMENDED RETURN",
+    "fieldDescription": "Enter X if this is an amended return",
+    "formName": "FORM 1065",
+    "eorg": "BASAMENDDR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BUSINESS CODE",
+    "fieldDescription": "Business code",
+    "formName": "FORM 1065",
+    "eorg": "BASBUSCODE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH METHOD ACCOUNTING",
+    "fieldDescription": "Enter X if this return uses a cash accounting method",
+    "formName": "FORM 1065",
+    "eorg": "BASCASHB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CHANGE OF ADDRESS",
+    "fieldDescription": "Enter X if this return shows a change in address",
+    "formName": "FORM 1065",
+    "eorg": "BASCHANGER"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PSHIP CITY ST ZIP",
+    "fieldDescription": "Partnership City State Zip Code",
+    "formName": "8979 PAGE 1",
+    "eorg": "BASCITY2B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP CITY STATE ZIP",
+    "fieldDescription": "Partnership city, state, zip code",
+    "formName": "FORM 1065",
+    "eorg": "BASCITY2B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DATE BUSINESS STARTED",
+    "fieldDescription": "Date business started",
+    "formName": "FORM 1065",
+    "eorg": "BASDBS2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP EIN",
+    "fieldDescription": "Partnership EIN",
+    "formName": "8979 PAGE 1",
+    "eorg": "BASEMPIDN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP EIN",
+    "fieldDescription": "PII EIN Partnership EIN",
+    "formName": "FORM 1065",
+    "eorg": "BASEMPIDN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FEIN",
+    "fieldDescription": "Taxpayer FEIN",
+    "formName": "FORM 8275",
+    "eorg": "BASEMPIDN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAXPAYER FEIN",
+    "fieldDescription": "Taxpayer FEIN",
+    "formName": "FORM 8275-R",
+    "eorg": "BASEMPIDN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: FIRM EIN",
+    "fieldDescription": "PII EIN Firm employer identification number for signature block",
+    "formName": "FORM 1065",
+    "eorg": "BASEMPLIDN"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FINAL RETURN",
+    "fieldDescription": "Enter X if this is a final return",
+    "formName": "FORM 1065",
+    "eorg": "BASFINALR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: FIRM ADDRESS",
+    "fieldDescription": "Firm address for signature block",
+    "formName": "FORM 1065",
+    "eorg": "BASFIRMADD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: FIRM CITY AND STATE",
+    "fieldDescription": "Firm city and state for signature block",
+    "formName": "FORM 1065",
+    "eorg": "BASFIRMCITYST"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PREFIRMCS",
+    "fieldDescription": "Preparer firm city and street",
+    "formName": "F1065XPAGE4",
+    "eorg": "BASFIRMCITYST"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: FIRM NAME",
+    "fieldDescription": "Firm name for signature block",
+    "formName": "FORM 1065",
+    "eorg": "BASFIRMNAME"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PREPARER SIGNATURE",
+    "fieldDescription": "Paid preparer signature.",
+    "formName": "FORM 1065",
+    "eorg": "BASFIRMSIGB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BEGINNING FISCAL DATE",
+    "fieldDescription": "Beginning of fiscal year",
+    "formName": "FORM 1065",
+    "eorg": "BASFISBYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BEGINNING YEAR",
+    "fieldDescription": "BEGINNING YEAR",
+    "formName": "EFILE K1",
+    "eorg": "BASFISBYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FISCAL YEAR BEGINNING DATE",
+    "fieldDescription": "Fiscal year beginning date",
+    "formName": "WV K-1 EQUIVALENT",
+    "eorg": "BASFISBYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ENDING FISCAL DATE",
+    "fieldDescription": "End of fiscal year",
+    "formName": "FORM 1065",
+    "eorg": "BASFISEYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX YEAR ENDING",
+    "fieldDescription": "TAX YEAR ENDING",
+    "formName": "EFILE K1",
+    "eorg": "BASFISEYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FISCAL YEAR ENDING DATE",
+    "fieldDescription": "Fiscal year ending date",
+    "formName": "WV K-1 EQUIVALENT",
+    "eorg": "BASFISEYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: GENERAL PTR DATE",
+    "fieldDescription": "Date of general partner signature",
+    "formName": "FORM 1065",
+    "eorg": "BASGENDATE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: GENERAL PTR NAME",
+    "fieldDescription": "Name of general partner for signature block",
+    "formName": "FORM 1065",
+    "eorg": "BASGENNAME"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: GENERAL PTR TITLE",
+    "fieldDescription": "Title of general partner for signature block",
+    "formName": "FORM 1065",
+    "eorg": "BASGENTITLE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INITIAL RETURN",
+    "fieldDescription": "Enter X if this is an initial return",
+    "formName": "FORM 1065",
+    "eorg": "BASINITR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP STREET ADDR",
+    "fieldDescription": "Partnership Street Address",
+    "formName": "8979 PAGE 1",
+    "eorg": "BASNUM1A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP ADDRESS LN 1",
+    "fieldDescription": "Partnership street line 1",
+    "formName": "FORM 1065",
+    "eorg": "BASNUM1A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP ADDRESS LN 2",
+    "fieldDescription": "Partnership street line 2",
+    "formName": "FORM 1065",
+    "eorg": "BASNUM2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NUMBER OF PARTNERS",
+    "fieldDescription": "Number of Schedules K-1 in this return",
+    "formName": "FORM 1065",
+    "eorg": "BASNUMPTRS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER METHOD ACCOUNTING DESC",
+    "fieldDescription": "Description for other accounting method",
+    "formName": "FORM 1065",
+    "eorg": "BASOTHDESC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER METHOD ACCOUNTING",
+    "fieldDescription": "Enter X if this return uses another accounting method",
+    "formName": "FORM 1065",
+    "eorg": "BASOTHERB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: OTHER",
+    "fieldDescription": "Enter X if this is another type of partnership",
+    "formName": "SCHEDULE B",
+    "eorg": "BASOTYPE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER TYPE OF ENTITY",
+    "fieldDescription": "OTHER TYPE OF ENTITY",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASOTYPE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: OTHER DESC",
+    "fieldDescription": "Description of entity, if Other",
+    "formName": "SCHEDULE B",
+    "eorg": "BASOTYPE3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER TYPE OF ENTITY SPECIFY",
+    "fieldDescription": "OTHER TYPE OF ENTITY SPECIFY",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASOTYPE3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP NAME LN1",
+    "fieldDescription": "Partnership name line 1",
+    "formName": "FORM 1065",
+    "eorg": "BASPARTN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NAME",
+    "fieldDescription": "Taxpayer Name",
+    "formName": "FORM 8275",
+    "eorg": "BASPARTN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAXPAYER NAME",
+    "fieldDescription": "Taxpayer Name",
+    "formName": "FORM 8275-R",
+    "eorg": "BASPARTN1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP NAME LN2",
+    "fieldDescription": "Partnership name line 2",
+    "formName": "FORM 1065",
+    "eorg": "BASPARTN2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: PREPARER DATE",
+    "fieldDescription": "Date of preparer-s signature",
+    "formName": "FORM 1065",
+    "eorg": "BASPREPDATE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PRINCIPLE BUSINESS LN 1",
+    "fieldDescription": "Principal business activity line 1",
+    "formName": "FORM 1065",
+    "eorg": "BASPRINBUS1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PRINCIPLE BUSINESS LN 2",
+    "fieldDescription": "Principal business activity line 2",
+    "formName": "FORM 1065",
+    "eorg": "BASPRINBUS2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PRINCIPLE PRODUCT/SERVICE LN 1",
+    "fieldDescription": "Principal product or service line 1",
+    "formName": "FORM 1065",
+    "eorg": "BASPRINPROD1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PRINCIPLE PRODUCT/SERVICE LN 2",
+    "fieldDescription": "Principal product or service line 2",
+    "formName": "FORM 1065",
+    "eorg": "BASPRINPROD2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: GENERAL PSHP",
+    "fieldDescription": "Enter X if this is a general partnership",
+    "formName": "SCHEDULE B",
+    "eorg": "BASSCHBQ1A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DOMESTIC GENERAL PARTHERSHIP",
+    "fieldDescription": "DOMESTIC GENERAL PARTHERSHIP",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASSCHBQ1A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: LIMITED PSHP",
+    "fieldDescription": "Enter X if this is a limited partnership",
+    "formName": "SCHEDULE B",
+    "eorg": "BASSCHBQ1B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DOMESTIC LIMITED PARTNERSHIP",
+    "fieldDescription": "DOMESTIC LIMITED PARTNERSHIP",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASSCHBQ1B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: LLC",
+    "fieldDescription": "Enter X if this is a limited liability company",
+    "formName": "SCHEDULE B",
+    "eorg": "BASSCHBQ1C"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DOMESTIC LIMITED LIAB COMPANY",
+    "fieldDescription": "DOMESTIC LIMITED LIABILITY COMPANY",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASSCHBQ1C"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: FOREIGN PSHP",
+    "fieldDescription": "Enter X if foreign partnership",
+    "formName": "SCHEDULE B",
+    "eorg": "BASSCHBQ1F"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FOREIGN PARTNERSHIP",
+    "fieldDescription": "FOREIGN PARTNERSHIP",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASSCHBQ1F"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF ENTITY: LIM LIAB PSHP",
+    "fieldDescription": "Enter X if this is a limited liability partnership",
+    "formName": "SCHEDULE B",
+    "eorg": "BASSCHBQ1P"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DOMESTIC LIMITED LIAB PSHIP",
+    "fieldDescription": "DOMESTIC LIMITED LIABILITY PARTNERSHIP",
+    "formName": "1065-B PAGE 2",
+    "eorg": "BASSCHBQ1P"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SIGNATURE: SELF EMPLOYED",
+    "fieldDescription": "Enter X if preparer is self-employed",
+    "formName": "FORM 1065",
+    "eorg": "BASSELFEMP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUM DEPR BEG",
+    "fieldDescription": "Less accumulated depreciation - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABACCDEP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUMULATED DEPR BEGIN",
+    "fieldDescription": "ACCUMULATED DEPRECIATION BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABACCDEP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUM DEPL BEG",
+    "fieldDescription": "Less accumulated depletion - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABACCDEPL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORTGAGE LOANS BEG",
+    "fieldDescription": "Mortgage and real estate loans - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABAMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTAN ASSETS ACCUM DEPR BEGIN",
+    "fieldDescription": "INTANGIBLE ASSETS ACCUMULATED DEPRECIATION BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABAMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ALLOW BAD DEBTS BEG",
+    "fieldDescription": "Less allowance for bad debts - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABBAD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BAD DEBTS BEGIN",
+    "fieldDescription": "ALLOWANCE FOR BAD DEBTS BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABBAD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPR ASSETS BEG",
+    "fieldDescription": "Buildings and other depreciable assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABBLDG"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPR BUILDINGS BEGIN",
+    "fieldDescription": "BUILDINGS AND OTHER DEPRECIABLE ASSETS BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABBLDG"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH BEG",
+    "fieldDescription": "Cash - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABCASH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH BEGINNING TAX YEAR",
+    "fieldDescription": "CASH BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABCASH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPLETABLE ASSETS BEG",
+    "fieldDescription": "Depletable assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABDEPASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPLETABLE ASSETS BEGIN",
+    "fieldDescription": "DEPLETABLE ASSETS BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABDEPASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "AMORT ASSETS BEG",
+    "fieldDescription": "Intangible assets (amortizable only) - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABINT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTANGIBLE ASSETS BEGIN",
+    "fieldDescription": "INTANGIBLE ASSETS AMORTIABLE ONLY BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABINT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INVENTORIES BEG",
+    "fieldDescription": "Inventories - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABINV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INVENTORIES BEGIN",
+    "fieldDescription": "INVENTORIES BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABINV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LAND BEG",
+    "fieldDescription": "Land - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABLAND"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LAND NET AMORTIZATION BEGIN",
+    "fieldDescription": "LAND NET ANY AMORTIZATION BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABLAND"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET DEPLETABLE ASSETS BEG",
+    "fieldDescription": "Net depletable assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABLINE10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET AMORT ASSETS BEG",
+    "fieldDescription": "Net intangible assets (amortizable only) - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABLINE12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LESS INTAN ASSET ACCUM DEPR BE",
+    "fieldDescription": "LESS INTANGIBLE ASSETS ACCUMULATED DEPRECIATION BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABLINE12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET ACCOUNTS RECEIVABLE BEG",
+    "fieldDescription": "Net trade notes and accounts receivable - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABLINE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LESS BAD DEBTS BEGIN",
+    "fieldDescription": "LESS ALLOWANCE FOR BAD DEBTS BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABLINE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET DEPR ASSETS BEG",
+    "fieldDescription": "Net buildings and other depreciable assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABLINE9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LESS ACCUM DEPR BEGIN",
+    "fieldDescription": "LESS ACCUMULATED DEPRECIATION BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABLINE9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUM AMORT BEG",
+    "fieldDescription": "Less accumulated amortization - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORTGAGE LOANS BEGIN",
+    "fieldDescription": "MORTGAGE AND REAL ESTATE LOANS BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH ASSETS BEG",
+    "fieldDescription": "Other assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABOTHASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER ASSETS BEGIN",
+    "fieldDescription": "OTHER ASSETS BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABOTHASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH CURRENT ASSETS BEG",
+    "fieldDescription": "Other current assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABOTHCASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER CURRENT ASSETS BEGIN",
+    "fieldDescription": "OTHER CURRENT ASSETS BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABOTHCASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH INVESTMENTS BEG",
+    "fieldDescription": "Other investments - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABOTHIV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INVESTMENTS BEGIN",
+    "fieldDescription": "OTHER INVESTMENTS BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABOTHIV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCOUNTS RECEIVABLE BEG",
+    "fieldDescription": "Trade notes and accounts receivable - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABTNOTE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRADE NOTES RECEIVABLE BEGIN",
+    "fieldDescription": "TRADE NOTES AND ACCOUNTS RECEIVABLE BEGINNING OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABTNOTE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TTL ASSETS BEG",
+    "fieldDescription": "Total assets - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABTOTASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT SEC BEG",
+    "fieldDescription": "Other tax-exempt securities - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABTOTSEC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT SECURITIES BEG",
+    "fieldDescription": "TAX EXEMPT SECURITIES BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABTOTSEC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "US GOV OBLIGATIONS BEG",
+    "fieldDescription": "US government obligations - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSABUSOBL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "US GOVERNMENT OBLIGATIONS BEG",
+    "fieldDescription": "US GOVERNMENT OBLIGATIONS BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSABUSOBL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUM DEPR END",
+    "fieldDescription": "Less accumulated depreciation - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEACCDEP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUMULATED DEPR END",
+    "fieldDescription": "ACCUMULATED DEPRECIATION END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEACCDEP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUM DEPL END",
+    "fieldDescription": "Less accumulated depletion - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEACCDEPL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORTGAGE LOANS END",
+    "fieldDescription": "Mortgage and real estate loans - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEAMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTAN ASSET ACCUM DEPR END",
+    "fieldDescription": "INTANGIBLE ASSETS ACCUMULATED DEPRECIATION END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEAMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ALLOW BAD DEBTS END",
+    "fieldDescription": "Less allowance for bad debts - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEBAD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BAD DEBTS END",
+    "fieldDescription": "ALLOWANCE FOR BAD DEBTS END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEBAD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPR ASSETS END",
+    "fieldDescription": "Buildings and other depreciable assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEBLDG"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPR BUILDING END",
+    "fieldDescription": "BUILDINGS AND OTHER DEPRECIABLE ASSETS END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEBLDG"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH END",
+    "fieldDescription": "Cash - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAECASH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH END OF TAX YEAR",
+    "fieldDescription": "CASH END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAECASH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPLETABLE ASSETS END",
+    "fieldDescription": "Depletable assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEDEPASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPLETABLE ASSETS END",
+    "fieldDescription": "DEPLETABLE ASSETS END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEDEPASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "AMORT ASSETS END",
+    "fieldDescription": "Intangible assets (amortizable only) - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEINT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTANGIBLE ASSETS END",
+    "fieldDescription": "INTANGIBLE ASSETS AMORTIABLE ONLY END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEINT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INVENTORIES END",
+    "fieldDescription": "Inventories - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEINV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INVENTORIES END",
+    "fieldDescription": "INVENTORIES END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEINV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LAND END",
+    "fieldDescription": "Land - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAELAND"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LAND NET AMORTIZATION END",
+    "fieldDescription": "LAND NET ANY AMORTIZATION ENDTAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAELAND"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET DEPLETABLE ASSETS END",
+    "fieldDescription": "Net depletable assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAELINE10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET AMORT ASSETS END",
+    "fieldDescription": "Net intangible assets (amortizable only) - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAELINE12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LESS INTAN ASSET ACCUM DEPR EN",
+    "fieldDescription": "LESS INTANGIBLE ASSETS ACCUMULATED DEPRECIATION END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAELINE12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET ACCOUNTS RECEIVABLE END",
+    "fieldDescription": "Net trade notes and accounts receivable - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAELINE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LESS BAD DEBTS END",
+    "fieldDescription": "LESS ALLOWANCE FOR BAD DEBTS END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAELINE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET DEPR ASSETS END",
+    "fieldDescription": "Net buildings and other depreciable assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAELINE9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LESS ACCUM DEPR END",
+    "fieldDescription": "LESS ACCUMULATED DEPRECIATION END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAELINE9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCUM AMORT END",
+    "fieldDescription": "Less accumulated amortization - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORTGAGE LOANS END",
+    "fieldDescription": "MORTGAGE AND REAL ESTATE LOANS END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER CURRENT ASSETS END2",
+    "fieldDescription": "OTHER CURRENT ASSETS END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH ASSETS END",
+    "fieldDescription": "Other assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEOTHASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER ASSETS END",
+    "fieldDescription": "OTHER ASSETS END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEOTHASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH CURRENT ASSETS END",
+    "fieldDescription": "Other current assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEOTHCASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER CURRENT ASSETS END",
+    "fieldDescription": "OTHER CURRENT ASSETS END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEOTHCASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH INVESTMENTS END",
+    "fieldDescription": "Other investments - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEOTHIV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INVESMENTS END",
+    "fieldDescription": "OTHER INVESTMENTS END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEOTHIV"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCOUNTS RECEIVABLE END",
+    "fieldDescription": "Trade notes and accounts receivable - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAETNOTE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRADE NOTES RECEIVABLE END",
+    "fieldDescription": "TRADE NOTES AND ACCOUNTS RECEIVABLE END OF TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAETNOTE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TTL ASSETS END",
+    "fieldDescription": "Total assets - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAETOTASS"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT SEC END",
+    "fieldDescription": "Other tax-exempt securities - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAETOTSEC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT SECURITIES END",
+    "fieldDescription": "TAX EXEMPT SECURITIES END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAETOTSEC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "US GOV OBLIGATIONS END",
+    "fieldDescription": "US government obligations - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSAEUSOBL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "US GOVERNMENT OBLIGATIONS END",
+    "fieldDescription": "US GOVERNMENT OBLIGATIONS END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSAEUSOBL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCOUNTS PAYABLE BEG",
+    "fieldDescription": "Accounts payable - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCOUNTS PAYABLE BEGIN",
+    "fieldDescription": "ACCOUNTS PAYABLE BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLBAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LT NOTES PAYABLE BEG",
+    "fieldDescription": "Mortgages, notes, bonds payable in more than 1 year - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBLMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORT PAY MORE 1 YR BEGIN",
+    "fieldDescription": "MORTGAGE, NOTES, BONDS PAYABLE IN MORE THAN 1 YEAR BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLBLMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BY LOANS FROM PARTNERS",
+    "fieldDescription": "Beginning year loans from partners or persons related to partners.",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBLMORTA"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ST NOTES PAYABLE BEG",
+    "fieldDescription": "Mortgages, notes, bonds payable in less than 1 year - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORT PAY LESS 1YR BEGIN",
+    "fieldDescription": "MORTGAGE, NOTES, BONDS PAYABLE IN LESS THAN 1 YEAR BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLBMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NONRECOURSE LOANS BEG",
+    "fieldDescription": "Nonrecourse loans - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBNRL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ALL NONRECOURSE LIAB BEGIN",
+    "fieldDescription": "ALL NONRECOURSE LIABILITIES BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLBNRL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH CURRENT LIAB BEG",
+    "fieldDescription": "Other current liabilities - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBOTCL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH CURRENT LIABILITIES BEGIN",
+    "fieldDescription": "OTHER CURRENT LIABILITIES BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLBOTCL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH LIABILITIES BEG",
+    "fieldDescription": "Other liabilities - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBOTHLIAB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER LIABILITIES BEGIN",
+    "fieldDescription": "OTHER LIABILITIES BEGINNING TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLBOTHLIAB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERS CAPITAL ACCTS BEG",
+    "fieldDescription": "Partners- capital accounts - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBPTRCAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TTL LIABILITIES CAPITAL BEG",
+    "fieldDescription": "Total liabilities and capital - beginning",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLBTOTCAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCOUNTS PAYABLE END",
+    "fieldDescription": "Accounts payable - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLEAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ACCOUNTS PAYABLE END",
+    "fieldDescription": "ACCOUNTS PAYABLE END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLEAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LT NOTES PAYABLE END",
+    "fieldDescription": "Mortgages, notes, bonds payable in more than 1 year - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLELMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORTGAGE PAY MORE 1YR END",
+    "fieldDescription": "MORTGAGE, NOTES, BONDS PAYABLE IN MORE THAN 1 YEAR END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLELMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "EY LOANS FROM PARTNERS",
+    "fieldDescription": "Ending year loans from partners or persons related to partners.",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLELMORTA"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ST NOTES PAYABLE END",
+    "fieldDescription": "Mortgages, notes, bonds payable in less than 1 year - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLEMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MORT PAY IN 1 YR END",
+    "fieldDescription": "MORTGAGE, NOTES, BONDS PAYABLE IN LESS THAN 1 YEAR ENDTAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLEMORT"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NONRECOURSE LOANS END",
+    "fieldDescription": "Nonrecourse loans - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLENRL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ALL NONRECOURSE LIAB END",
+    "fieldDescription": "ALL NONRECOURSE LIABILITIES END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLENRL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH CURRENT LIAB END",
+    "fieldDescription": "Other current liabilities - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLEOTCL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH CURRENT LIABILITIES END",
+    "fieldDescription": "OTHER CURRENT LIABILITIES END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLEOTCL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH LIABILITIES END",
+    "fieldDescription": "Other liabilities - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLEOTHLIAB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER LIABILITIES END",
+    "fieldDescription": "OTHER LIABILITIES END TAX YEAR",
+    "formName": "1065-B PAGE 5",
+    "eorg": "BSLEOTHLIAB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERS CAPITAL ACCTS END",
+    "fieldDescription": "Partners- capital accounts - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLEPTRCAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TTL LIABILITIES CAPITAL END",
+    "fieldDescription": "Total liabilities and capital - ending",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "BSLETOTCAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BY LOANS TO PARTNERS",
+    "fieldDescription": "Beginning year loans to partners or persons related to partners.",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "F11150RBUF0N0"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LOANS TO PARTNERS BEG YR",
+    "fieldDescription": "Loans to partners or persons related to partners beginning year.",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "F11150RBUF0N0"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "EY LOANS TO PARTNERS",
+    "fieldDescription": "Ending year loans to parnters or ersons related to partners.",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "F11150REUF0N0"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LOANS TO PARTNERS END YEAR",
+    "fieldDescription": "Loans to partners or persons related to partners ending year.",
+    "formName": "SCH L BALANCE SHEET",
+    "eorg": "F11150REUF0N0"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL ASSETS",
+    "fieldDescription": "Total assets",
+    "formName": "FORM 1065",
+    "eorg": "GTBASSET"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GUARANTEED PAYMENTS",
+    "fieldDescription": "Guaranteed payments",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GUARANTEED PAYMENTS TO PTRS",
+    "fieldDescription": "GUARANTEED PAYMENTS TO PARTNERS",
+    "formName": "1065-B",
+    "eorg": "GTBLINE10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "REPAIRS & MAINTENANCE",
+    "fieldDescription": "Repairs and maintenance",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE11"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "REPAIRS AND MAINTENANCE",
+    "fieldDescription": "REPAIRS AND MAINTENANCE",
+    "formName": "1065-B",
+    "eorg": "GTBLINE11"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BAD DEBTS",
+    "fieldDescription": "Bad debts",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BAD DEBTS",
+    "fieldDescription": "BAD DEBTS",
+    "formName": "1065-B",
+    "eorg": "GTBLINE12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "RENT",
+    "fieldDescription": "Rent",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE13"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "RENT",
+    "fieldDescription": "RENT",
+    "formName": "1065-B",
+    "eorg": "GTBLINE13"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAXES AND LICENSES",
+    "fieldDescription": "Taxes and licenses",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE14"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAXES AND LICENSES",
+    "fieldDescription": "TAXES AND LICENSES",
+    "formName": "1065-B",
+    "eorg": "GTBLINE14"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST",
+    "fieldDescription": "Interest",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE15"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST",
+    "fieldDescription": "INTEREST",
+    "formName": "1065-B",
+    "eorg": "GTBLINE15"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPRECIATION",
+    "fieldDescription": "Depreciation",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE16A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPRECIATION ELSEWHERE",
+    "fieldDescription": "Less depreciation claimed elsewhere",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE16B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPRECIATION DEDUCTION",
+    "fieldDescription": "Net depreciation deduction",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE16C"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPLETION",
+    "fieldDescription": "Depletion",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE17"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "RETIREMENT PLANS",
+    "fieldDescription": "Retirement plan",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE18"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "RETIREMENT PLANS",
+    "fieldDescription": "RETIREMENT PLANS",
+    "formName": "1065-B",
+    "eorg": "GTBLINE18"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "EMPLOYEE BENEFIT PROGRAMS",
+    "fieldDescription": "Employee benefit programs",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE19"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "EMPLOYEE BENEFIT PROGRAMS",
+    "fieldDescription": "EMPLOYEE BENEFIT PROGRAMS",
+    "formName": "1065-B",
+    "eorg": "GTBLINE19"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS RECEIPTS",
+    "fieldDescription": "Gross receipts or sales",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE1A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS RECEIPTS OR SALES",
+    "fieldDescription": "GROSS RECEIPTS OR SALES",
+    "formName": "1065-B",
+    "eorg": "GTBLINE1A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "RETURNS AND ALLOWANCES",
+    "fieldDescription": "Less returns and allowances",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE1B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "RETURNS AND ALLOWANCES",
+    "fieldDescription": "RETURNS AND ALLOWANCES",
+    "formName": "1065-B",
+    "eorg": "GTBLINE1B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET RECEIPTS",
+    "fieldDescription": "Net receipts",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE1C"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "COST OF GOODS SOLD",
+    "fieldDescription": "Cost of goods sold",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER DEDUCTIONS",
+    "fieldDescription": "Other deductions",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE20"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER DEDUCTIONS",
+    "fieldDescription": "OTHER DEDUCTIONS",
+    "formName": "1065-B",
+    "eorg": "GTBLINE20"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL DEDUCTIONS",
+    "fieldDescription": "Total deductions",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE21"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ORDINARY INCOME",
+    "fieldDescription": "Ordinary income (loss)",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE22"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS PROFIT",
+    "fieldDescription": "Gross profit",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ORDINARY INC FROM PSHPS",
+    "fieldDescription": "Ordinary income (loss) from other partnerships and fiduciaries",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET FARM PROFIT",
+    "fieldDescription": "Net farm profit (loss)",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET GAIN FROM 4797",
+    "fieldDescription": "Net gain (loss) from Form 4797",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INCOME",
+    "fieldDescription": "Other income (loss)",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INCOME OR LOSS",
+    "fieldDescription": "OTHER INCOME OR LOSS",
+    "formName": "1065-B",
+    "eorg": "GTBLINE7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL INCOME",
+    "fieldDescription": "Total income (loss)",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE8"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SALARIES AND WAGES",
+    "fieldDescription": "Salaries and wages",
+    "formName": "FORM 1065",
+    "eorg": "GTBLINE9C"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SALARIES AND WAGES",
+    "fieldDescription": "SALARIES AND WAGES",
+    "formName": "1065-B",
+    "eorg": "GTBLINE9C"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CHARITABLE CASH CONTRIBUTIONS",
+    "fieldDescription": "Charitable Cash Contributions",
+    "formName": "SCHEDULE K",
+    "eorg": "K.TCASH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CHARITABLE NONCASH CONTRIBUT",
+    "fieldDescription": "Charitable NonCash Contributions",
+    "formName": "SCHEDULE K",
+    "eorg": "K.TNONCASH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "M3REQ",
+    "fieldDescription": "M-3 Required",
+    "formName": "FORM 1065",
+    "eorg": "M3REQ"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SCHEDULE M-3 IS ATTACHED",
+    "fieldDescription": "SCHEDULE M-3 IS ATTACHED",
+    "formName": "1065-B",
+    "eorg": "M3REQ"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "COLLECTIBLES 28 GAIN",
+    "fieldDescription": "Collectibles (28%) gain (loss)",
+    "formName": "SCHEDULE K",
+    "eorg": "SCK4E28"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH DISTRIBUTIONS",
+    "fieldDescription": "Distribution of money (cash and marketable Securities)",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKDOM"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PROPERTY DISTRIBUTIONS",
+    "fieldDescription": "Distribution of property other than money",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKDOP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET GAIN/LOSS UNDER SEC 1231",
+    "fieldDescription": "Net gain or loss under section 1231 other than casualty or theft",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKF1231"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SECTION 179 EXPENSE DEDUCTION",
+    "fieldDescription": "Section 179 expense deduction (attach Form 4562)",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKF179"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INCOME OR LOSS FOR ANALYSIS",
+    "fieldDescription": "Net income (loss) for Analysis of Net Income (Loss)",
+    "formName": "FORM 1065",
+    "eorg": "SCKF23A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ADJUSTED GAIN OR LOSS",
+    "fieldDescription": "Adjusted gain or loss",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFAGL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER RENTAL CREDITS",
+    "fieldDescription": "Credits related to other rental activities",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFCOTH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER RENTAL REAL CREDITS",
+    "fieldDescription": "Credits (other than credits shown on lines 13b and 13c) related",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFCRR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "POST 86 DEPR ADJUSTMENT",
+    "fieldDescription": "Depreciation adjustment on property placed in service after 1986",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFDADJ"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEDUCTIONS FROM OIL & GAS",
+    "fieldDescription": "Gross income from oil, gas, and geothermal properties",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFDEOIL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPLETION NOT OIL & GAS",
+    "fieldDescription": "Depletion (other than oil and gas)",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFDEPL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DIVIDEND INCOME",
+    "fieldDescription": "Dividend income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFDI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL ORDINARY DIVIDENDS",
+    "fieldDescription": "TOTAL ORDINARY DIVIDENDS",
+    "formName": "1065-B PAGE 2",
+    "eorg": "SCKFDI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "EXPENSES - OTHER RENTAL ACT",
+    "fieldDescription": "Expenses from other rental activities",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFEOR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GEN PARTNERS INDIV ACTIVE",
+    "fieldDescription": "Analysis by type of partner: general partners individual active",
+    "formName": "FORM 1065",
+    "eorg": "SCKFGAI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GEN PARTNERS CORP",
+    "fieldDescription": "Analysis by type of partner: general partners corporate",
+    "formName": "FORM 1065",
+    "eorg": "SCKFGC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GEN PARTNERS EXEMPT ORG",
+    "fieldDescription": "Analysis by type of partner: general partners exempt organization",
+    "formName": "FORM 1065",
+    "eorg": "SCKFGEO"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS FARMING OR FISHING INC",
+    "fieldDescription": "Gross farming or fishing income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFGFI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS INCOME FROM OIL & GAS",
+    "fieldDescription": "Gross income from oil gas and geothermal properties",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFGIOIL"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS NONFARM INCOME",
+    "fieldDescription": "Gross nonfarm income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFGNF"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS NONFARM INCOME",
+    "fieldDescription": "GROSS NONFARM INCOME",
+    "formName": "1065-B PAGE 4",
+    "eorg": "SCKFGNF"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GEN PARTNERS NOMINEE OTHER",
+    "fieldDescription": "Analysis by type of partner: general partners nominee/other",
+    "formName": "FORM 1065",
+    "eorg": "SCKFGNO"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GUARANTEED PAYMENTS TO PTRS",
+    "fieldDescription": "Guaranteed payments to partner",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFGP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GUARANTEED PAYMENTS",
+    "fieldDescription": "GUARANTEED PAYMENTS",
+    "formName": "1065-B PAGE 4",
+    "eorg": "SCKFGP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GEN PARTNERS  INDIV PASSIVE",
+    "fieldDescription": "Analysis by type of partner: general partners individual passive",
+    "formName": "FORM 1065",
+    "eorg": "SCKFGPI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GEN PARTNERS PARTNERSHIP",
+    "fieldDescription": "Analysis by type of partner: general partners partnership",
+    "formName": "FORM 1065",
+    "eorg": "SCKFGPTR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST EXP ON INVESTMENT",
+    "fieldDescription": "Interest expense on investment debts",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFIEI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST EXP ON INVEST DEBTS",
+    "fieldDescription": "INTEREST EXPENSE ON INVESTMENT DEBTS",
+    "formName": "1065-B PAGE 2",
+    "eorg": "SCKFIEI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST INCOME",
+    "fieldDescription": "Interest income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFII"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST",
+    "fieldDescription": "INTEREST",
+    "formName": "1065-B PAGE 2",
+    "eorg": "SCKFII"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS INC FROM OTH RENTAL",
+    "fieldDescription": "Gross income from other rental activities",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFIOR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INVESTMENT EXPENSE",
+    "fieldDescription": "Investment expenses included on line 10 above",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFIVEI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INVESTMENT INCOME",
+    "fieldDescription": "Investment income included on lines 4a, 4b, 4c, and 4f above",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFIVI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIM PARTNERS INDIV ACTIVE",
+    "fieldDescription": "Analysis by type of partner: limited partners individual active",
+    "formName": "FORM 1065",
+    "eorg": "SCKFLAI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIM PARTNERS CORP",
+    "fieldDescription": "Analysis by type of partner: limited partners corporate",
+    "formName": "FORM 1065",
+    "eorg": "SCKFLC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIM PARTNERS EXEMPT ORG",
+    "fieldDescription": "Analysis by type of partner: limited partners exempt organization",
+    "formName": "FORM 1065",
+    "eorg": "SCKFLEO"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIM PARTNERS NOMINEE OTHER",
+    "fieldDescription": "Analysis by type of partner: limited partners nominee/other",
+    "formName": "FORM 1065",
+    "eorg": "SCKFLNO"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIM PARTNERS PARTNERSHIP",
+    "fieldDescription": "Analysis by type of partner: limited partners partnership",
+    "formName": "FORM 1065",
+    "eorg": "SCKFLP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIM PARTNERS  INDIV PASSIVE",
+    "fieldDescription": "Analysis by type of partner: limited partners individual passive",
+    "formName": "FORM 1065",
+    "eorg": "SCKFLPI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET LONG-TERM CAP GL: TOTAL",
+    "fieldDescription": "Net long-term capital gain (loss)  Total for year (attach Schedule D (Form 1065))",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFLTC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NONDEDUCTIBLE EXPENSE",
+    "fieldDescription": "Nondeductible expenses",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFNDEXP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET INCOME OTH RENTAL",
+    "fieldDescription": "Net income (loss) from other rental activities",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFNOR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET EARININGS/LOSS SELF EMPLOY",
+    "fieldDescription": "Net earnings (loss) from self employment",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFNSE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET EARNINGS FROM SELF EMPLOY",
+    "fieldDescription": "NET EARNINGS FROM SELF EMPLOYMENT",
+    "formName": "1065-B PAGE 4",
+    "eorg": "SCKFNSE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER DEDUCTIONS",
+    "fieldDescription": "Other deductions income (loss) (attach schedule)",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFOD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INCOME/LOSS",
+    "fieldDescription": "Other income/loss (attach schedule)",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFOI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INCOME OR LOSS",
+    "fieldDescription": "OTHER INCOME OR LOSS",
+    "formName": "1065-B PAGE 2",
+    "eorg": "SCKFOI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ORDINARY INC/LOSS FROM BUS",
+    "fieldDescription": "Ordinary income or loss from trade or business",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFORD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER CREDITS",
+    "fieldDescription": "Other credits",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFOTCR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER TAX PREFERENCE ITEMS",
+    "fieldDescription": "Other adjustments and tax preference items",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFOTHTP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER TAX-EXEMPT INCOME",
+    "fieldDescription": "Other tax-exempt income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFOTTEI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "QUALIFIED REHAB EXP",
+    "fieldDescription": "Qualified rehabilitation expenditures related to rental real estate",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFQRE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ROYALTY INCOME",
+    "fieldDescription": "Royalty income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFRI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROSS ROYALITIES",
+    "fieldDescription": "GROSS ROYALITIES",
+    "formName": "1065-B PAGE 2",
+    "eorg": "SCKFRI"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET RENTAL REAL ESTATE INC",
+    "fieldDescription": "Net income (loss) from rental real estate activities",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFRR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SECTION 59E EXPENSE",
+    "fieldDescription": "Total expenditures to which a section 59(e) election may apply",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFS59"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET SHORT-TERM CAP GL",
+    "fieldDescription": "Net short-term capital gain (loss) (attach Schedule D (Form 1065))",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFSTC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT INTEREST INCOME",
+    "fieldDescription": "Tax-exempt interest income",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFTEII"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT INTEREST INCOME",
+    "fieldDescription": "TAX EXEMPT INTEREST INCOME",
+    "formName": "1065-B PAGE 4",
+    "eorg": "SCKFTEII"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF EXPENDITURES",
+    "fieldDescription": "Type of expenditures",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFTEXP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FOREIGN TAX PAID OR ACCRUED",
+    "fieldDescription": "Amount of foreign taxes paid or the amount of taxes accrued.",
+    "formName": "SCHEDULE K",
+    "eorg": "SCKFTPORACC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPRECIATION ON BKS NOT K",
+    "fieldDescription": "Depreciation recorded on books this year not included on Sch K",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM14ADP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRAVEL AND ENTERTAINMENT",
+    "fieldDescription": "Travel and entertainment recorded on books this year not included on Sch K",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM14BTE"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTH EXP ON BKS NOT ON K",
+    "fieldDescription": "Other expenses recorded on books this year not included on Sch K",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM14OTH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET INC PLUS ADDITIONS",
+    "fieldDescription": "Net income (loss) per books plus additions",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM15"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INCOME ON BKS NOT ON SCH K",
+    "fieldDescription": "Other income recorded on books this year not included on Sch K",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM16OTH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TAX EXEMPT INTEREST",
+    "fieldDescription": "Tax-exempt interest recorded on books this year not included on Sch K",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM16RB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEPRECIATION NOT ON BKS",
+    "fieldDescription": "Depreciation included on Sch K not charged against book income this year",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM17A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MISC DED ON SCH K NOT  BKS",
+    "fieldDescription": "Other deductions included on Sch K not charged against book income this year",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM17OTH"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL SUBTRACTIONS",
+    "fieldDescription": "Total subtractions",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM18"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INCOME OR LOSS",
+    "fieldDescription": "Income (loss) for Analysis of Net Income (Loss)",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM19A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GUARANTEED PAYMENTS",
+    "fieldDescription": "Guaranteed payments (other than health insurance)",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM1GP3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET INC PER BKS",
+    "fieldDescription": "Net income (loss) per books",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM1NIPB"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SCH K INCOME NOT ON BKS",
+    "fieldDescription": "Income included on Sch K not recorded on books this year",
+    "formName": "SCHEDULE M-1",
+    "eorg": "SM1RB2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BEG BALANCE PLUS INCREASES",
+    "fieldDescription": "Beginning balance plus increases",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM25"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CASH DISTRIBUTIONS",
+    "fieldDescription": "Cash distributions",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM26A"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PROPERTY DISTRIBUTIONS",
+    "fieldDescription": "Property distributions",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM26B"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL DECREASES",
+    "fieldDescription": "Total decreases",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM28"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BEGINNING BALANCE",
+    "fieldDescription": "Balance at beginning of year",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM2BBYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ENDING BALANCE",
+    "fieldDescription": "Balance at end of year",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM2BEYR"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CAPITAL CONTRIBUTED",
+    "fieldDescription": "Capital contributed during year",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM2CAP"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NET INC PER BKS",
+    "fieldDescription": "Net income (loss) per books",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM2NIPB3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INCREASES",
+    "fieldDescription": "Other increases",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM2OC"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER DECREASES",
+    "fieldDescription": "Other decreases",
+    "formName": "SCHEDULE M-2",
+    "eorg": "SM2OD"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MAY IRS DISCUSS WITH PREP YES",
+    "fieldDescription": "May the IRS discuss this return with the preparer shown below? Enter X for yes.",
+    "formName": "FORM 1065",
+    "eorg": "X10.1743.17"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "MAY IRS DISCUSS WITH PREP NO",
+    "fieldDescription": "May the IRS discuss this return with the paid preparer? Enter X for no.",
+    "formName": "FORM 1065",
+    "eorg": "X10.1743.18"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BBA AAR IMPUTED UNDERPAYMNT",
+    "fieldDescription": "BBA AAR Imputed underpayment",
+    "formName": "FORM 1065",
+    "eorg": "X10.2976.19"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST DUE 8866",
+    "fieldDescription": "Interest due under the look-back method - income forecast method (attach Form 8697)",
+    "formName": "FORM 1065",
+    "eorg": "X10.2976.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INTEREST DUE 8697",
+    "fieldDescription": "Interest due under the look-back method - completed long-term contracts (attach Form 8697)",
+    "formName": "FORM 1065",
+    "eorg": "X10.2976.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CORP OWN 50 PCT:  YES",
+    "fieldDescription": "Enter X if a coporation owned more than a 50% interest in the partnership",
+    "formName": "SCHEDULE A",
+    "eorg": "X10.3072.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "HAS FOREIGN PARTNERS",
+    "fieldDescription": "HAS FOREIGN PARTNERS",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3072.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "CORP OWN 50 PCT:  NO",
+    "fieldDescription": "Enter X if the corp",
+    "formName": "SCHEDULE A",
+    "eorg": "X10.3072.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "HAS NO FOREIGN PARTNERS",
+    "fieldDescription": "HAS NO FOREIGN PARTNERS",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3072.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INDV OR EST OWN 50 PCT:  YES",
+    "fieldDescription": "Enter X if the individual or estate had had more than a 50% interest",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3072.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INDV OR EST OWN 50 PCT:  NO",
+    "fieldDescription": "SSS",
+    "formName": "SCHEDULE A",
+    "eorg": "X10.3072.8"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "VOTING POWER:  YES",
+    "fieldDescription": "Enter X if partnership owns 20-50 of total voting power in a corporation",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3073.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ATTACHING FORM 8996: YES",
+    "fieldDescription": "Partnership attaching Form 8996 to certify as a Qualified Opportunity Fund: YES",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3073.13"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ATTACHING FORM 8996: NO",
+    "fieldDescription": "Partnership attaching Form 8996 to certify as a Qualified Opportunity Fund: NO",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3073.14"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "AMOUNT FROM FORM 8996",
+    "fieldDescription": "Amount from Form 8996",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3073.15"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "VOTING POWER:  NO",
+    "fieldDescription": "sss",
+    "formName": "SCHEDULE A",
+    "eorg": "X10.3073.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OWNERSHP ANOTHER PSHIP YES",
+    "fieldDescription": "Ownership of another Partnership: X=Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3073.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OWNSHP ANOTHER PSHP NO",
+    "fieldDescription": "Ownership of another Partnership: X=No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3073.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEBT WAS CANCELLED ETC YES",
+    "fieldDescription": "Debt was cancelled, etc. X=Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRANS SUBJ TO SEC 17078 YES",
+    "fieldDescription": "At any time during the tax year, were there any transfers between the partnership and its partners subject to the disclosure requirements of Regulations section 1.707-8: NO",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DEBT WAS CANCELLED ETC NO",
+    "fieldDescription": "Debt was cancelled, etc. X=No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FILE INFO ON REPORT TRANS YES",
+    "fieldDescription": "Filed to provide information on any reportable transaction: X=Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP FILED FORM 8918",
+    "fieldDescription": "PARTNERSHIP FILED FORM 8918",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3074.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FILED TO INFO REPORT TRANS NO",
+    "fieldDescription": "Filed to provide information on any reportable transaction: X=No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERSHIP NOT FILED FRM 8918",
+    "fieldDescription": "PARTNERSHIP NOT FILED FORM 8918",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3074.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INT FIN ACCT IN FOR COUNTR YES",
+    "fieldDescription": "Interest in a financial account in a foreign country: X=Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "HAD INT IN ACT IN FOR COUNTRY",
+    "fieldDescription": "HAD INTEREST IN ACCOUNT IN FOR COUNTRY",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3074.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INT FIN ACCT FORG COUNTR NO",
+    "fieldDescription": "Interest in a financial account in a foreign country: X=No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NO FOREIGN ACCOUNTS",
+    "fieldDescription": "No, At any time during calendar year 2008, did the partnership have an interest in or a account, securities account, or other financial account)?",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3074.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "INT FIN ACCT FORG COUNTR ABBRE",
+    "fieldDescription": "Interest in a financial account in a foreign country: Country Abbreviation",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NME FORG CNTRY HAD FIN INT IN",
+    "fieldDescription": "NAME OF FOREIGN COUNTRY HAD ACCOUNT WITH +FINANCIAL INTEREST IN  I",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3074.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NUM OF FOREIGN PTRS SECT 864C8",
+    "fieldDescription": "Enter the number of foreign partners subject to section 864(c)(8) as a result of transferring all or a portion of an interest in the partnership or of receiving a distribution from the partnership",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.8"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRANS SUBJ TO SEC 17078 NO",
+    "fieldDescription": "At any time during the tax year, were there any transfers between the partnership and its partners subject to the disclosure requirements of Regulations section 1.707-8: YES",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3074.9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NOT REQ TO FILE SCH L M1 M2",
+    "fieldDescription": "Requirements satisfied to NOT have to file Schedule L, M-1, and M-2: X=Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3075.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NOT REQ TO FILE SCH L M1 M2 NO",
+    "fieldDescription": "Requirements satisfied to NOT have to file Schedule L, M-1, and M-2: X=No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3075.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PUBLICLY TRADED PSHIP YES",
+    "fieldDescription": "Publicly traded partnership: X=Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3075.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PTRSHP PUBLICLY TRADED",
+    "fieldDescription": "PARTRERSHIP PUBLICLY TRADED",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3075.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PUBLICLY TRADED PSHIP NO",
+    "fieldDescription": "Publicly traded partnership: X=No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3075.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PTRSHP NOT PUBLICLY TRADED",
+    "fieldDescription": "PARTNERSHP NOT PUBLICLY TRADED",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3075.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRANSFER TRUST:  YES",
+    "fieldDescription": "Distribution from foreign trust is Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DISTR_GRNTOR_TRANSF FOR TRST",
+    "fieldDescription": "RECEIVED DISTRIBUTION, WAS GRANTOR TO, OR TRANSFOR TO FOREIGN TRUST",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3076.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIKE KIND EXCH:  YES",
+    "fieldDescription": "Enter X if partnership distributed property that it received as like-kind exchange",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.11"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TRANSFER TRUST:  NO",
+    "fieldDescription": "Distribution from foreign trust is No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NO DISTR/GRNTOR/TRANS FOR TRST",
+    "fieldDescription": "NOT DISTRITRIBUTION,  GRANTOR TO, OR TRANSFEROR TO FOREIGN TRUST",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3076.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "754 ELECTION:  YES",
+    "fieldDescription": "754 Election is Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "754 ELECTION:  NO",
+    "fieldDescription": "754 Election is No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BASIS ADJUSTMENT:  YES",
+    "fieldDescription": "Enter X if partnership has taken a basis adjustment",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "BASIS ADJUSTMENT:  NO",
+    "fieldDescription": "Enter X if partnership has taken a basis adjustment",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "743B ADJUSTMENT YES",
+    "fieldDescription": "Form 1065 - Schedule B - Section 743b adjustments yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.8"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "743B ELECTION YES",
+    "fieldDescription": "Form 1065 - Schedule B - Section 743b election yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3076.9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DIST TO TENANCY:  YES",
+    "fieldDescription": "Enter X if the partnership distributed to tenancy in common",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DIST TO TENANCY:  NO",
+    "fieldDescription": "Enter X if the partnership didnt distribute to any partner a tenancy in common",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 8858",
+    "fieldDescription": "The number of Forms 8858 in the return",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FOREIGN PARTNERS: YES",
+    "fieldDescription": "Enter X if the partnership has foreign partners",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FOREIGN PARTNERS:  NO",
+    "fieldDescription": "Enter X if the partnership does not have any foreign partners",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 8805",
+    "fieldDescription": "Number of Forms 8805 in the return",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 8865",
+    "fieldDescription": "Number of Forms 8865 in the return",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3077.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NUMBER OF FORM 8865 ATTACHED",
+    "fieldDescription": "NUMBER OF FORM 8865 ATTACHED",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X10.3077.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PARTNERS FOREIGN GOVTMENTS",
+    "fieldDescription": "Number of partners that are foreign governments under section 892",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.311.11"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PMTS REQUIRE 1099  Y",
+    "fieldDescription": "Payments wree made which required Form 1099 to be filed",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SECTION 721C PARTNERSHIP: YES",
+    "fieldDescription": "Section 721(c) partnership: YES",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.13"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SECTION 721C PARTNERSHIP: NO",
+    "fieldDescription": "Section 721(c) partnership: NO",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.14"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DISALLOWED DED SECTION 267A",
+    "fieldDescription": "Partnership paid or accrued interest or royalty disallowed under section 267A: Amount",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.15"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ELECTION UNDER SEC 163J: YES",
+    "fieldDescription": "Election under sec 163j: YES",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.16"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ELECTION UNDER SEC 163J: NO",
+    "fieldDescription": "Election under sec 163j: NO",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.17"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SATISFY TO NOT FILE 8990: YES",
+    "fieldDescription": "Satisfy condition to not file 8990: YES",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.18"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "SATISFY TO NOT FILE 8990: NO",
+    "fieldDescription": "Satisfy condition to not file 8990: No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.19"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PMTS REQUIRE 1099  NO",
+    "fieldDescription": "No payments were made which would require Forms 1099 to be filed.",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DISALLOWED DED SEC 267A: YES",
+    "fieldDescription": "Partnership paid or accrued interest or royalty disallowed under section 267A: Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.20"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DISALLOWED DED SEC 267A: NO",
+    "fieldDescription": "Partnership paid or accrued interest or royalty disallowed under section 267A: No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.21"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PMTS REQUIRE 1099  WILL FILE",
+    "fieldDescription": "Will file Forms 1099",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PMTS REQUIRE 1099  WONT FILE",
+    "fieldDescription": "Wont file Forms 1099",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NUMBER OF 5471",
+    "fieldDescription": "Number of Forms 5471 attached to this return",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.5"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 1042 AND 1042-S: YES",
+    "fieldDescription": "Form 1042 and 1042-S: Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 1042 AND 1042-S: NO",
+    "fieldDescription": "Form 1042 and 1042-S: No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 8938 REQUIRED: YES",
+    "fieldDescription": "Form 8938 required: Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.8"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FORM 8938 REQUIRED: NO",
+    "fieldDescription": "Form 8938 required: No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3117.9"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "FIRMS PHONE NUMBER",
+    "fieldDescription": "Phone number of the firm",
+    "formName": "FORM 1065",
+    "eorg": "X10.3136.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER TAXES",
+    "fieldDescription": "Other Taxes",
+    "formName": "FORM 1065",
+    "eorg": "X10.3145.10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TOTAL BALANCE DUE",
+    "fieldDescription": "Total Balance Due",
+    "formName": "FORM 1065",
+    "eorg": "X10.3145.13"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PAYMENT",
+    "fieldDescription": "Payment",
+    "formName": "FORM 1065",
+    "eorg": "X10.3145.16"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "AMOUNT OWED",
+    "fieldDescription": "Amount owed",
+    "formName": "FORM 1065",
+    "eorg": "X10.3145.19"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OVERPAYMENT",
+    "fieldDescription": "Overpayment",
+    "formName": "FORM 1065",
+    "eorg": "X10.3145.22"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "ENERGY EFFICIENT COMMRCL BLDG",
+    "fieldDescription": "Energy efficient commercial buildings deduction",
+    "formName": "FORM 1065",
+    "eorg": "X10.3145.26"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OWNSHP FOREIGN CORP Y",
+    "fieldDescription": "A foreign corp directly or indirectly acquired substantially all of the prop. of your partnership and ownership percentage by vote or value for sec. 7874 purposes: Yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3171.1"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OWNSHP FOREIGN CORP N",
+    "fieldDescription": "A foreign corp directly or indirectly acquired substantially all of the prop. of your partnership and ownership percentage by vote or value for sec. 7874 purposes: No",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3171.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OWNSHP FOR CORP PERC BY VOTE F",
+    "fieldDescription": "A foreign corp directly or indirectly acquired substantially all of the prop. of your partnership and ownership percentage by vote or value for sec. 7874 purposes: Percentage by Vote TAX FORM",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3171.3"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OWNSHP FOR CORP PERC BY VAL F",
+    "fieldDescription": "A foreign corp directly or indirectly acquired substantially all of the prop. of your partnership and ownership percentage by vote or value for sec. 7874 purposes: Percentage by Value TAX FORM",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3171.4"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "734B AGGREGATE POSITIVE",
+    "fieldDescription": "Form 1065 - Schedule B - Section 734b positive aggregate amount",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3174.10"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "734B AGGREGATE NEGATIVE",
+    "fieldDescription": "Form 1065 - Schedule B - Section 734b negative aggregate amount",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3174.12"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "743B ADJ FOR PTRS PROP",
+    "fieldDescription": "Form 1065 - Schedule B - Section 743b adjustment for partners and property",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3174.15"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "734B ELECTION YES",
+    "fieldDescription": "Form 1065 - Schedule B - 734b election yes",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3174.6"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "734B ELECTION NO",
+    "fieldDescription": "Form 1065 - Schedule B - Section 743b election no",
+    "formName": "SCHEDULE B",
+    "eorg": "X10.3174.7"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "NAME CHANGE",
+    "fieldDescription": "Enter X for a name change",
+    "formName": "FORM 1065",
+    "eorg": "X10.357.21"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "AGG ACTS FOR SECT 465 AT-RISK",
+    "fieldDescription": "Enter X if Partnership aggregated activites for section 465 at-risk purposes",
+    "formName": "FORM 1065",
+    "eorg": "X10.357.32"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GROUPED ACTS FOR SEC 469 PASS",
+    "fieldDescription": "Enter X if Partnership grouped activities for section 469 passive activity purposes",
+    "formName": "FORM 1065",
+    "eorg": "X10.357.33"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OTHER RRE CR",
+    "fieldDescription": "Enter the type of other rental real estate credits.",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.31.32"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF OTHER RENTAL CR",
+    "fieldDescription": "Enter they type of other rental credits.",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.31.33"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF OTHER CREDITS",
+    "fieldDescription": "Enter the type of other credits.",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.31.34"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIH SECTION 42J5",
+    "fieldDescription": "Low income housing credit section 42 j 5",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.31.35"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "LIH OTHER",
+    "fieldDescription": "Low income housing credit other",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.31.38"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "TYPE OF OTHER DEDUCTIONS",
+    "fieldDescription": "Enter the type of other deductions.",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.6819.30"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "PROPERTY CONTRIBUTION",
+    "fieldDescription": "Property contributions",
+    "formName": "SCHEDULE M-2",
+    "eorg": "X15.6986.23"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GPSER",
+    "fieldDescription": "Guaranteed payment service",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.7199.11"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "GPCAP",
+    "fieldDescription": "Guaranteed payment capital",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.7199.17"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "QUAL DIVIDENDS",
+    "fieldDescription": "Qualified dividends",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.7199.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "QUALIFIED DIVIDENDS",
+    "fieldDescription": "QUALIFIED DIVIDENDS",
+    "formName": "1065-B PAGE 2",
+    "eorg": "X15.7199.2"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "OTHER INCOME TYPE",
+    "fieldDescription": "Enter the type of other income",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.7199.26"
+  },
+  {
+    "taxReturnType": "1065",
+    "taxReturnDescription": "PARTNERSHIP",
+    "fieldName": "DIVEQU",
+    "fieldDescription": "Dividend equivalent",
+    "formName": "SCHEDULE K",
+    "eorg": "X15.7199.5"
+  }
+]

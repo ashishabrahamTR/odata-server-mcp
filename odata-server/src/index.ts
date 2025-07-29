@@ -92,6 +92,11 @@ class ODataServer {
                 type: 'string',
                 description: 'Optional locator value. If not provided, defaults to year-specific value',
               },
+              skip: {
+                type: 'number',
+                description: 'Number of records to skip (for pagination)',
+                default: 0
+              }
             },
             required: ['eorg', 'year'],
           },
@@ -124,6 +129,11 @@ class ODataServer {
                 type: 'string',
                 description: 'Sort order (asc or desc)',
                 default: 'desc'
+              },
+              skip: {
+                type: 'number',
+                description: 'Number of records to skip (for pagination)',
+                default: 0
               }
             },
             required: ['year', 'eorgs'],
@@ -142,15 +152,18 @@ class ODataServer {
             form_name?: string;
             field_name?: string;
             locator?: string;
+            skip?: number;
           };
-          const { eorg, year, taxType = '1040', form_name, field_name, locator } = args;
+          const { eorg, year, taxType = '1040', form_name, field_name, locator, skip = 0 } = args;
 
           try {
             // Build query parameters
             let default_locator;
             if (taxType === '1120') {
-              default_locator = "7253JG";
-            } else if (year === 2024 && taxType === '1040') {
+              default_locator = "1355JV";
+            }else if (taxType === '1065') {
+              default_locator = "4117JG"; 
+            }else if (year === 2024 && taxType === '1040') {
               default_locator = "2517KC";
             } else if (year === 2023 && taxType === '1040') {
               default_locator = "9506JP";
@@ -162,7 +175,7 @@ class ODataServer {
             const params: any = {
               year: year,
               '$top': 50,
-              '$skip': 0
+              '$skip': skip
             };
 
             // Build filter parameters with support for multiple EORGs
@@ -227,9 +240,10 @@ class ODataServer {
             eorgs: string;
             sort_order?: string;
             filter?: string;
+            skip?: number;
           };
           
-          const { year, top = 10, eorgs, taxType = '1040', sort_order = 'desc' } = args;
+          const { year, top = 10, eorgs, taxType = '1040', sort_order = 'desc', skip = 0 } = args;
 
           try {
             // Build filter conditions
@@ -248,7 +262,7 @@ class ODataServer {
             const params: any = {
               '$filter': filterConditions.join(' and '),
               '$top': top,
-              '$skip': 0,
+              '$skip': skip,
               '$orderby': `value ${sort_order}`
             };
 
