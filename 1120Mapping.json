@@ -1,0 +1,2770 @@
+﻿[
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FIRM EIN",
+        "fieldDescription": "PII EIN Paid Preparers Use Only - Firm EIN",
+        "formName": "FORM 1120",
+        "eorg": "PREPEIN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE ADDRESS CHANGE",
+        "fieldDescription": "Indicate address change",
+        "formName": "FORM 1120",
+        "eorg": "CHANGE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "NET DEPRECIATION EXPENSE",
+        "fieldDescription": "Net depreciation expense",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE21B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PREAPARER NAME",
+        "fieldDescription": "Preaparer name",
+        "formName": "FORM 1120",
+        "eorg": "PREPSIG"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "REFUNDABLE CREDITS FROM 2439",
+        "fieldDescription": "Refundable credits from Form 2439",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32F"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: TOTAL DIVIDENDS",
+        "fieldDescription": "Schedule C: Total dividends - add lines 1 through 17",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE19"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: LINE 5",
+        "fieldDescription": "Schedule J:Total  lines 3 and 4",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLN10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: IND OR EST OWN-N",
+        "fieldDescription": "Did any individual or estate own directly 20% or more, or own, directly or indirectly, 50% or more of the total voting power of all classes of the corporation's stock entitled to vote? No",
+        "formName": "FORM 1120",
+        "eorg": "K204BN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: NUMBER OF SHAREHOLDERS",
+        "fieldDescription": "Number of shareholders at the end of the tax year",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE13"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG ACCUM DEPLETION",
+        "fieldDescription": "Schedule L: Beginning accumulated depletion",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE11BA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG OTHER ASSETS",
+        "fieldDescription": "Schedule L: Beginning other assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE14B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEGINNING LAND",
+        "fieldDescription": "Schedule L: Beginning land",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE12B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END ACCUM AMORTIZATION",
+        "fieldDescription": "Schedule L: Ending accumulated amortization",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE13BC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END OTH CURR ASSETS",
+        "fieldDescription": "Schedule L: Ending other current assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE6D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END OTHER LIABILITIES",
+        "fieldDescription": "Schedule L: Ending other liabilities",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE21D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E APPROPRIATED END",
+        "fieldDescription": "Schedule L: Ending  appropriated retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE24D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: TAX DEPR > BOOK",
+        "fieldDescription": "Schedule M-1: Tax depreciation > book",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE8A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: LINE 7",
+        "fieldDescription": "Schedule M-2: Add lines 5 and 6",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: NET INCOME  PER BOOKS",
+        "fieldDescription": "Schedule M-2: Net income per books",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TAX INCOME B4 NOL & SPEC DED",
+        "fieldDescription": "Taxable income before NOL & special deductions",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE28"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TOTAL OTHER TAXES AND INTEREST",
+        "fieldDescription": "Total other taxes and interest.",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DEPLETION",
+        "fieldDescription": "Depletion",
+        "formName": "SCHEDULE D",
+        "eorg": "PG1LINE22"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DEPLETION1",
+        "fieldDescription": "Depletion",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE22"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E APPROPRIATED END",
+        "fieldDescription": "Schedule L: Ending  appropriated retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE24D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: TAX DEPR > BOOK",
+        "fieldDescription": "Schedule M-1: Tax depreciation > book",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE8A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "NOTE AT TOP OF PAGE 1",
+        "fieldDescription": "Note at top of page 1",
+        "formName": "FORM 1120-PC",
+        "eorg": "X9.120.25"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "HEADER",
+        "fieldDescription": "HEADER",
+        "formName": "FORM 1120S",
+        "eorg": "X9.120.25"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "NET DEPRECIATION EXPENSE",
+        "fieldDescription": "Net depreciation expense",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE21B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FEIN",
+        "fieldDescription": "FEIN",
+        "formName": "SCHEDULE A",
+        "eorg": "FED.EIN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "NAME",
+        "fieldDescription": "Corporation name",
+        "formName": "SCHEDULE A",
+        "eorg": "CORPONE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DATE FOR PREPARERS SIGNATURE",
+        "fieldDescription": "Paid Preparers Use Only - Date for preparers signature",
+        "formName": "FORM 1120",
+        "eorg": "PREPDATE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FEDERAL EMPLOYER ID NUMBER",
+        "fieldDescription": "PII EIN Federal employer ID number",
+        "formName": "FORM 1120",
+        "eorg": "FED.EIN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C WHOLLY OWNED FOR 100%",
+        "fieldDescription": "Schedule C:Special deduction for dividends from wholly owned foreign corps 100%",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE8C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: PY MINIMUM TAX",
+        "fieldDescription": "Schedule J: Prior year minimum tax credit",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE4F"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: TOTAL PAYMENTS",
+        "fieldDescription": "Total payments",
+        "formName": "FORM 1120",
+        "eorg": "X10.1747.7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - NOL CARRYOVER PR YR",
+        "fieldDescription": "Schedule K: NOL carryover from prior tax years",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE15"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 351 TRANSFER > 1M-YES",
+        "fieldDescription": "Did the corporation receive assets in a section 351 transfer in which any of the transferred assets had a fair market basis or fair market value of more than $1 million? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: BUSINESS ACTIVITY",
+        "fieldDescription": "Business activity",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE2B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: SATISFY TO FILE 8991: N",
+        "fieldDescription": "Condition to file Form 8991",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ADJ TO SHOLDERS EQUITY",
+        "fieldDescription": "Schedule L: Beginning adjustments to stockholders equity",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE26AB"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: COST TREASURY STOCK END",
+        "fieldDescription": "Schedule L: Ending cost of treasury stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE26D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END ALLOW FOR BAD DEBT",
+        "fieldDescription": "Schedule L: Ending allowance for bad debts",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE2BC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END MORT PAYABLE>1 YR",
+        "fieldDescription": "Schedule L: Ending mortgages payable in more than one  year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE20D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: PD IN ADD CAPITAL END",
+        "fieldDescription": "Schedule L: Ending paid-in additional capital",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE23D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TAX DUE",
+        "fieldDescription": "Tax due",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE34"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END MORT PAYABLE>1 YR",
+        "fieldDescription": "Schedule L: Ending mortgages payable in more than one  year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE20D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CORPORATE NAME",
+        "fieldDescription": "Corporate name",
+        "formName": "FORM 1120",
+        "eorg": "CORPONE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FISCAL YEAR END",
+        "fieldDescription": "Fiscal year ending",
+        "formName": "FORM 1120",
+        "eorg": "ENDYEAR"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE FINAL RETURN",
+        "fieldDescription": "Enter X if final return",
+        "formName": "FORM 1120",
+        "eorg": "FINAL"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OWN 20 PERCENT OF A PTSHIP - Y",
+        "fieldDescription": "Did the corporation directly own 20% or more or directly or indirectly 50% or more of a partnership not on 851 - Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1734.7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV DED FROM FORGN SFC",
+        "fieldDescription": "Foreign-source portion of dividends received from a specified 10%-owned foreign corporation",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC SUBJ TO 70%DED FOR",
+        "fieldDescription": "Schedule C: Special deduction for less than 20% owned foreign corporations or FSCs subject to 70% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE6C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: TOTAL",
+        "fieldDescription": "Schedule C: Line 9c - Special deduction total",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C:AFFIL GROUP 100%",
+        "fieldDescription": "Schedule C: Special deduction for dividends from affiliated groups subject to 100% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE11C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - ENTER &AGE OWNED",
+        "fieldDescription": "Schedule K: enter percentage owned",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE10A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 1042 AND 1042-S REQD-N",
+        "fieldDescription": "During the corporation's tax year, did the corporation make any payments that would require it to file Forms 1042 and 1042-S? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: ACCOUNTING METHOD-OTHER",
+        "fieldDescription": "Check accounting method: other",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE1C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CORPORATION NAME LINE 2",
+        "fieldDescription": "Corporation name line 2",
+        "formName": "FORM 1120",
+        "eorg": "CORPTWO"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FIRM ADDRESS",
+        "fieldDescription": "Paid Preparers Use Only - Firm Address Line 1",
+        "formName": "FORM 1120",
+        "eorg": "FIRMADDRESS"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PREPARER CITY STATE AND ZIP",
+        "fieldDescription": "Preparer city, state, and ZIP code",
+        "formName": "FORM 1120",
+        "eorg": "X195.16.28"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "QUALIFIED ELEC VEHICLE CR",
+        "fieldDescription": "Qualified electric vehicle credit",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE4B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "RECAP OF LOW-INC HOUSING CR",
+        "fieldDescription": "Recapture of low-income housing credit (attach Form 8611)",
+        "formName": "FORM 1120",
+        "eorg": "X10.1663.6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV SUBJ TO 70%DED FOR",
+        "fieldDescription": "Schedule C: Dividends from less than 20% owned foreign corporations or FSC-s subject to 70% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE6A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: PREF STOC < 20% OWNED",
+        "fieldDescription": "Schedule C: Dividends preferred stock - certain less than 20% owned utilities",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE4A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: WHOLLY OWNED FOR 100%",
+        "fieldDescription": "Schedule C: Dividends wholly-owned foreign subsidiaries subject to 100% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE8A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: LINE 8",
+        "fieldDescription": "Schedule J: Subtract line 7, credits, from line 5, income tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K- NUMBER OF 5472 ATTACHED",
+        "fieldDescription": "Schedule K: number of 5472s attached",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE10C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 1M IN 351 TRANSFER-YES",
+        "fieldDescription": "Did the corporation receive assets in a section 351 transfer in which any of the transferred assets had a fair market basis or fair market value of more than $1 million? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: ACCOUNTING METHOD-CASH",
+        "fieldDescription": "Check accounting method: cash",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE1A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: BUSINESS ACTIVITY CODE",
+        "fieldDescription": "Business activity code no",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE2A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG ACCUM DEPR",
+        "fieldDescription": "Schedule L: Beginning accumulated depreciation",
+        "formName": "FORM 1120",
+        "eorg": "SCHLINE10BA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG MORTG & LOANS",
+        "fieldDescription": "Schedule L: Beginning mortgages & RE loans",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE8B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG NET DEPL ASSETS",
+        "fieldDescription": "Schedule L: Beginning net depletable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE11BB"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG OTHER INVESTMENTS",
+        "fieldDescription": "Schedule L: Beginning other investments",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE9B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG T NOTES & AR",
+        "fieldDescription": "Schedule L: Beginning trade notesand accounts receivable",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE2AA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E UNAPPROPRIATED END",
+        "fieldDescription": "Schedule L: Ending unappropriated retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE25D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: FEDERAL INCOME TAX",
+        "fieldDescription": "Schedule M-1: Federal income tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E UNAPPROPRIATED END",
+        "fieldDescription": "Schedule L: Ending unappropriated retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE25D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "4797 GAIN",
+        "fieldDescription": "4797 gains<losses>",
+        "formName": "INCOME",
+        "eorg": "PG1LINE9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CITY STATE ZIP",
+        "fieldDescription": "City State Zip",
+        "formName": "FORM 966",
+        "eorg": "FED.ADDLN2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "ADVERTISING",
+        "fieldDescription": "Advertising",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE23"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "BALANCE LINE 1C",
+        "fieldDescription": "Balance line 1c",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE1B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CITY STATE AND ZIP CODE",
+        "fieldDescription": "City, state, and zip code",
+        "formName": "FORM 1120",
+        "eorg": "FED.ADDLN2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OTHER INCOME",
+        "fieldDescription": "Other income",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OTHER TAXES AND INTEREST",
+        "fieldDescription": "Other taxes and interest",
+        "formName": "FORM 1120",
+        "eorg": "X10.1663.5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "RETURNS & ALLOWANCES",
+        "fieldDescription": "Returns & allowances",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE1A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV FROM AFFIL GRP MEM",
+        "fieldDescription": "Schedule C: Dividends from affiliated group members",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE11A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV SUBJ TO 80%DED DOM",
+        "fieldDescription": "Schedule C: Dividends 20% or more owned domestic corporations subject to 80% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE2A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: FOREIGN DIV GROSS UP",
+        "fieldDescription": "Schedule C: Foreign dividend gross-up",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE15"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: IC-DISC DIVIDENDS",
+        "fieldDescription": "Schedule C: IC-DISC and former DISC dividends",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE16"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SUB F INCL HYBRID TIER",
+        "fieldDescription": "Subpart F inclusions derived from hybrid dividends of tiered corporations",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: OTHER REFUNDABLE CREDIT",
+        "fieldDescription": "Other Refundable credits",
+        "formName": "FORM 1120",
+        "eorg": "X10.1747.8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: TOT PMTS CR 965 LIAB",
+        "fieldDescription": "Total payments, credits, and section 965 net tax liability",
+        "formName": "FORM 1120",
+        "eorg": "X10.1747.10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: NAME OF THE PARENT CORP",
+        "fieldDescription": "Name of the parent corporation",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE4NAME"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: SATISFY TO FILE 8991: Y",
+        "fieldDescription": "Condition to file form 8991",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: COST TREASURY STOCK BEG",
+        "fieldDescription": "Schedule L: Beginning cost of treasury stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE26B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ENDING NET DEPR ASSETS",
+        "fieldDescription": "Schedule L: Ending net depreciable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE10D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: TAX INCOME > BOOKS",
+        "fieldDescription": "Schedule M-1: Tax income > books",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SIGNATURE NAME",
+        "fieldDescription": "Please sign here - signature name",
+        "formName": "FORM 1120",
+        "eorg": "SIGNAME"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "ADVERTISING",
+        "fieldDescription": "Advertising",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE23"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "4797 GAIN",
+        "fieldDescription": "4797 gains<losses>",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CONTRIBUTIONS",
+        "fieldDescription": "Contributions",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE19"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE NAME CHANGE",
+        "fieldDescription": "Indicate name change",
+        "formName": "FORM 1120",
+        "eorg": "NMCHG"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INT DUE UNDER LOOK-BACK-8697",
+        "fieldDescription": "Interest due under the look-back method-completed long-term contracts (attach Form 8697)",
+        "formName": "FORM 1120",
+        "eorg": "X10.1663.7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC PREF STOC >20% OWN",
+        "fieldDescription": "Schedule C: Special deduction for certain 20% or greater owned preferred stock of utility companies",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE5C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC SUBJ TO 80%DED DOM",
+        "fieldDescription": "Schedule C: Special deduction 20% or more owned domestic corporations subject to 80% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE2C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: TOTAL SPECIAL DEDUCT",
+        "fieldDescription": "Schedule C: Special deductions total",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE20"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 1099 FILING REQD-YES",
+        "fieldDescription": "Did the corporation make any payments in current year that would require it to file Form  1099? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: FILING FORM 8996-NO",
+        "fieldDescription": "Is the corporation attaching Form 8996 to certify as a Qualified Opportunity Fund? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1765.2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: FILING FORM 8996-YES",
+        "fieldDescription": "Is the corporation attaching Form 8996 to certify as a Qualified Opportunity Fund? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1765.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: REQD TO FILE 1099-N",
+        "fieldDescription": "Did the corporation make any payments in current year that would require it to file Form  1099? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG DEPLETABLE ASSETS",
+        "fieldDescription": "Schedule L: Beginning depletable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE11AA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "2220: ESTIMATED TAX PENALTY",
+        "fieldDescription": "2220: Estimated tax penalty",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE33B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CHECK IF M-3 IS REQUIRED",
+        "fieldDescription": "Check to indicate that Sch M-3 is required",
+        "formName": "FORM 1120",
+        "eorg": "X10.387.23"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "COST OF GOOD SOLD",
+        "fieldDescription": "Cost of goods sold",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "GROSS PROFIT",
+        "fieldDescription": "Gross profit",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "GROSS RECEIPTS",
+        "fieldDescription": "Gross receipts or sales",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE CONSOLIDATED RETURN",
+        "fieldDescription": "Indicate consolidated return",
+        "formName": "FORM 1120",
+        "eorg": "X10.387.25"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INTEREST EXPENSE",
+        "fieldDescription": "Interest expense",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE18"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C:  DED FOR SALE BY CFC",
+        "fieldDescription": "Subpart F inclusions derived from the sale by a controlled foreign corporation (CFC) of the stock of a lower-tier foreign corporation treated as a dividend",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: TOTAL DIV RECD",
+        "fieldDescription": "Total dividends received",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE9A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: FOREIGN TAX CREDIT",
+        "fieldDescription": "Schedule J: Foreign tax credit",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE4A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - DIV PD IN EXC OF E&P Y",
+        "fieldDescription": "Schedule K: Enter X  - If dividends were paid in excess of E&P: Yes",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE6Y"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: UNALLOW DED UNDR 267A-N",
+        "fieldDescription": "During the tax year, did the corporation pay or accrue any interest or royalty for which the deduction is not allowed under section 267A? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG LOANS TO STKHDRS",
+        "fieldDescription": "Schedule L: Beginning loans to stockholders",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE7B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END OTHER INVESTMENTS",
+        "fieldDescription": "Schedule L: Ending other investments",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE9D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END TAX EXMEPT SECUR",
+        "fieldDescription": "Schedule L: Ending tax exempt securities",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE5D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: OTH TAX DED NOT ON BKS",
+        "fieldDescription": "Schedule M-1: Other tax deductions not on books",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE8O"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CURRENT YEAR ESTIMATED TAX PMT",
+        "fieldDescription": "Current year estimated tax payments",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "IRS CONTACT NO",
+        "fieldDescription": "May IRS contact preparer: No",
+        "formName": "FORM 1120",
+        "eorg": "IRSN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OWN 20 PERCENT OF A CORP - N",
+        "fieldDescription": "OWN 20 PERCENT OF A CORP - Y",
+        "formName": "FORM 1120",
+        "eorg": "X10.1734.2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PG1 TOTAL ASSETS",
+        "fieldDescription": "Page 1 Total assets",
+        "formName": "FORM 1120",
+        "eorg": "ASSETS"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PRIOR YEAR OVERPAYMENT CR",
+        "fieldDescription": "Prior year overpayment credited to current year",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "REFUND",
+        "fieldDescription": "Refund",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE36B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "REFUND APPLIED FOR ON 4466",
+        "fieldDescription": "Refund applied for on Form 4466",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV SUBJ TO 80%DED FOR",
+        "fieldDescription": "Schedule C: Dividends 20% or more owned foreign corps and FSCs subject to 80% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE7A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC DED FROM DOM CORP",
+        "fieldDescription": "Schedule C: Special deduction from domestic corporation dividends received by an SBIC under SBI Act of 1958",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE10C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 1099 FILING REQD-NO",
+        "fieldDescription": "Did the corporation make any payments in current year that would require it to file Form  1099? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 80 PCT OWNERSHIP CHG-Y",
+        "fieldDescription": "During this tax year, did the corporation have an 80% or more change in ownership, including a change due to redemption of its own stock? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: CORP ISSD DEBT WITH OID",
+        "fieldDescription": "Corporation issued publicly offered debt instruments with original issue discount",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE11"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END LOANS TO STKHDRS",
+        "fieldDescription": "Schedule L: Ending loans to stockholders",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE7D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "STREET ADDRESS",
+        "fieldDescription": "Street address",
+        "formName": "FORM 1120",
+        "eorg": "STREET"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TAXABLE INCOME",
+        "fieldDescription": "Taxable income",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE30"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TOTAL INCOME",
+        "fieldDescription": "Total income",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE11"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CAPITAL GAIN NET INCOME",
+        "fieldDescription": "Capital gain net income",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CREDIT OVERPAY TO EST TAX",
+        "fieldDescription": "Credit overpayment amount to next years estimated payments",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE36A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "EMPLOYEE BENEFIT PLANS",
+        "fieldDescription": "Employee benefit plans",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE25"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OTHER DEDUCTIONS",
+        "fieldDescription": "Other deductions",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE26"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "RENT EXPENSE",
+        "fieldDescription": "Rent expense",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE16"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC SUBJ TO 70%DED DOM",
+        "fieldDescription": "Schedule C: Special deduction Less than 20% owned domestic corporations subject to 70% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE1C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SUB F INCL SALE BY CFC",
+        "fieldDescription": "Subpart F inclusions derived from the sale by a controlled foreign corporation (CFC) of the stock of a lower-tier foreign corporation treated as a dividend",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: CORP ELECTED 163J-Y",
+        "fieldDescription": "Did the corporation have an election under section 163(j) for any real property trade or business or any farming business in effect during the tax year? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: TAX-EXEMPT INT RECEIVED",
+        "fieldDescription": "Amount of tax-exempt interest received or accrued during the tax year",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE12"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: COMMON STOCK B",
+        "fieldDescription": "Schedule L: Beginning total stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22BB"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END ACCUM DEPRECIATION",
+        "fieldDescription": "Schedule L: Ending accumulated depreciation",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE10BC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END LOANS FROM STKHLRS",
+        "fieldDescription": "Schedule L: Ending loans from stockholders",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE19D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ENDING ACCTS PAYABLE",
+        "fieldDescription": "Schedule L: Ending accounts payable",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE16D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ENDING LAND",
+        "fieldDescription": "Schedule L: Ending land",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE12D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E APPROPRIATED BEG",
+        "fieldDescription": "Schedule L: Beginning retained earnings appropriated",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE24B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: BOOK DEPR > TAX",
+        "fieldDescription": "Schedule M-1: Book depreciation > tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE5A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: BEGINNING RET EARNINGS",
+        "fieldDescription": "Schedule M-2: Beginning retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: STOCK DISTRIBUTIONS",
+        "fieldDescription": "Schedule M-2: Stock distributions",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE5B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TAXES",
+        "fieldDescription": "Taxes",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE17"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "EMPLOYEE BENEFIT PLANS",
+        "fieldDescription": "Employee benefit plans",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE25"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E APPROPRIATED BEG",
+        "fieldDescription": "Schedule L: Beginning retained earnings appropriated",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE24B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CAPITAL GAIN NET INCOME",
+        "fieldDescription": "Capital gain net income",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "ALT TAX ON QUAL SHIPPING-8902",
+        "fieldDescription": "Alternative tax on qualifying shipping activities (attach Form 8902)",
+        "formName": "FORM 1120",
+        "eorg": "X10.FRM8902"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FISCAL YEAR BEGINNING",
+        "fieldDescription": "Fiscal year beginning",
+        "formName": "FORM 1120",
+        "eorg": "BEGYEAR"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG OTHER LIABLITIES",
+        "fieldDescription": "Schedule L: Beginning other liabilities",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE21B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: COMMON STOCK D",
+        "fieldDescription": "Schedule L: Ending total stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END ACCUM DEPLETION",
+        "fieldDescription": "Schedule L: Ending accumulated depletion",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE11BC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END US GOVT OBLIGATIONS",
+        "fieldDescription": "Schedule L: Ending US government obligations",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE4D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L:TOT LIAB & EQUITY END",
+        "fieldDescription": "Schedule L: Ending total liabilities and equity",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE27D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: EXCESS CAP LOSS",
+        "fieldDescription": "Schedule M-1: Excess capital loss",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: INCREASES",
+        "fieldDescription": "Schedule M-2: Increases to retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH OTH TAX: TOTAL OTHER TAX",
+        "fieldDescription": "Sch Jother taxes: total other taxes",
+        "formName": "SCH J OTHER TAXES",
+        "eorg": "X10.1663.5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "4797 GAIN",
+        "fieldDescription": "4797 gains<losses>",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INT DUE UNDER LOOK-BACK-8866",
+        "fieldDescription": "Interest due under the look-back method-income forecast method (attach Form 8866)",
+        "formName": "FORM 1120",
+        "eorg": "X10.1663.8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "IRS CONTACT Y",
+        "fieldDescription": "May IRS contact preparer: yes",
+        "formName": "FORM 1120",
+        "eorg": "IRSY"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OVERPAYMENT",
+        "fieldDescription": "Tax overpayment",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE35"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OWN 20 PERCENT OF A PTSHIP - N",
+        "fieldDescription": "OWN 20 PERCENT OF A PTSHIP - Y",
+        "formName": "FORM 1120",
+        "eorg": "X10.1734.8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PENSION PLANS",
+        "fieldDescription": "Pension plans",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE24"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PREPARER SELF EMPLOYED",
+        "fieldDescription": "Preparer is self-employed",
+        "formName": "FORM 1120",
+        "eorg": "SELFEMP"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: INC CONTROL FOR CORP",
+        "fieldDescription": "Schedule C: Dividends from controlled foreign corp under subpart F",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE14"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: OTHER DIVIDENDS",
+        "fieldDescription": "Schedule C: Other dividends",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE17"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: PHC TAX",
+        "fieldDescription": "Schedule J: PHC tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: TOT CREDITS",
+        "fieldDescription": "Total credits",
+        "formName": "FORM 1120",
+        "eorg": "X10.1747.9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - ENTER OWNERS COUNTRY",
+        "fieldDescription": "SCH K: ENTER OWNERS COUNTRY",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE10B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 351 TRANSFER > 1M-NO",
+        "fieldDescription": "Did the corporation receive assets in a section 351 transfer in which any of the transferred assets had a fair market basis or fair market value of more than $1 million? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: IND OR EST OWN-Y",
+        "fieldDescription": "Did any individual or estate own directly 20% or more, or own, directly or indirectly,50% or more of the total voting power of all classes of the corporation's stock entitled to vote? Yes",
+        "formName": "FORM 1120",
+        "eorg": "K204BY"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: PRODUCT OR SERVICE",
+        "fieldDescription": "Product or service",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE2C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L ADJ TO SHOLDERS EQUITY",
+        "fieldDescription": "Schedule L: Ending adjustments to stockholders equity",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE26AD"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG OTH CURR ASSETS",
+        "fieldDescription": "Schedule L: Beginning other current assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE6B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END MRTG PAYABLE <1 YR",
+        "fieldDescription": "Schedule L: Ending mortgages, notes payable in less than one year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE17D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END T NOTES & AR",
+        "fieldDescription": "Schedule L: Ending trade notes and accounts receivable",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE2AC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ENDING TOTAL ASSETS",
+        "fieldDescription": "Schedule L: Ending total assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE15D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: INCOME",
+        "fieldDescription": "Schedule M-1: Income page 1, line 28",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PENSION PLANS",
+        "fieldDescription": "Pension plans",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE24"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END MRTG PAYABLE <1 YR",
+        "fieldDescription": "Schedule L: Ending mortgages, notes payable in less than one year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE17D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "ADDRESS2",
+        "fieldDescription": "ADDRESS2",
+        "formName": "FORM 1120S",
+        "eorg": "FED.ADDLN2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE INITIAL RETURN",
+        "fieldDescription": "Enter X if initial return",
+        "formName": "FORM 1120",
+        "eorg": "INITIAL"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OFFICERS COMPENSATION",
+        "fieldDescription": "Officers compensation",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE12"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "RECAPTURE OF ITC",
+        "fieldDescription": "Recapture of investment credit (attach Form 4255)",
+        "formName": "FORM 1120",
+        "eorg": "X10.1663.0"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DEBT FINANCED STK DIVID",
+        "fieldDescription": "Schedule C: Dividends from debt financed stock -domestic and foreign",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE3A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV FROM DOM CORP",
+        "fieldDescription": "Schedule C: Dividends from domestic corporations received by an SBIC under SBI Act of 1958",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC DED DEBT FIN STOCK",
+        "fieldDescription": "Schedule C: Special deduction for debt financed stock - domestic and foreign",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE3C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 20 PCT OR 50 PCT OWND-Y",
+        "fieldDescription": "Did any entity own directly 20% or indirectly 50% - Yes",
+        "formName": "FORM 1120",
+        "eorg": "K204AY"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: AMT DISALLOW UNDR 267A",
+        "fieldDescription": "Amount of the disallowed deductions under section 267A.",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: CORP ELECTED 163J-N",
+        "fieldDescription": "Did the corporation have an election under section 163(j) for any real property trade or business or any farming business in effect during the tax year? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: DISALLOW DED 267A-NO",
+        "fieldDescription": "During the tax year, did the corporation pay or accrue any interest or royalty for which the deduction is not allowed under section 267A? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: RECPT 500M IN 3 YRS-NO",
+        "fieldDescription": "Does the corporation have gross receipts of at least $500 million in any of the 3 preceding tax years? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: TOT RECT BELOW 250K-N",
+        "fieldDescription": "Are the corporation's total receipts for the tax year and its total assets at the end of the tax year less than $250,000? No",
+        "formName": "FORM 1120",
+        "eorg": "SCHKL13N"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: REQD TO FILE 1099-Y",
+        "fieldDescription": "Did the corporation make any payments in current year that would require it to file Form  1099? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L END ACCUM AMORTIZATION",
+        "fieldDescription": "Schedule L: Ending accumulated amortization",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE13D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG NET DEPR ASSETS",
+        "fieldDescription": "Schedule L: Beginning net depreciable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE10BB"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END DEPRECIABLE ASSETS",
+        "fieldDescription": "Schedule L: Ending depreciable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE10AC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ENDING INVENTORY",
+        "fieldDescription": "Schedule L: Ending inventory",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE3D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: PD IN ADD CAPITAL BEG",
+        "fieldDescription": "Schedule L: Beginning paid-in additional capital",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE23B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: CONTR CARRYOVR NOT BK",
+        "fieldDescription": "Schedule M-1: Contribution carryover utilized",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE8B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: CASH DISTRIBUTIONS",
+        "fieldDescription": "Schedule M-2: Cash distributions",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE5A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SPECIAL DEDUCTIONS",
+        "fieldDescription": "Special deductions",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE29B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: CONTR CARRYOVR NOT BK",
+        "fieldDescription": "Schedule M-1: Contribution carryover utilized",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE8B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PAGE 1 HEADING",
+        "fieldDescription": "Heading at the top of Page 1",
+        "formName": "FORM 1120L",
+        "eorg": "X9.120.25"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DATE OF INCORPORATION",
+        "fieldDescription": "Date of incorporation",
+        "formName": "FORM 1120",
+        "eorg": "DATEINC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DEPLETION",
+        "fieldDescription": "Depletion",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE22"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DEPLETION",
+        "fieldDescription": "Depletion",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE22"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FIRM NAME",
+        "fieldDescription": "Paid Preparers Use Only - Firm Name",
+        "formName": "FORM 1120",
+        "eorg": "FIRMNAME"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "GROSS RENTS",
+        "fieldDescription": "Gross rents",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE PERS HOLDING COMP",
+        "fieldDescription": "Enter X if personal holding company",
+        "formName": "FORM 1120",
+        "eorg": "PHC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "PREPARER TELE NO",
+        "fieldDescription": "Preparer telephone number",
+        "formName": "FORM 1120",
+        "eorg": "PREPTEL"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC SUBJ TO 80%DED FOR",
+        "fieldDescription": "Schedule C: Special deduction 20% or more owned foreign corps and FSCs subject to 80% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE7C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: GBC AMOUNT",
+        "fieldDescription": "Schedule J: General business credit amount",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE4E"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: TOTAL TAX",
+        "fieldDescription": "Schedule J: Total tax, line 11",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE10"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 1M IN 351 TRANSFER-NO",
+        "fieldDescription": "Did the corporation receive assets in a section 351 transfer in which any of the transferred assets had a fair market basis or fair market value of more than $1 million? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 20 PCT OR 50 PCT OWND-N",
+        "fieldDescription": "Did any entity own directly 20% or indirectly 50% - No",
+        "formName": "FORM 1120",
+        "eorg": "K204AN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: CASH AND PROP DISTRIB",
+        "fieldDescription": "Total amount of cash distributions and the book value of property distributions (other than cash) made during the tax year",
+        "formName": "FORM 1120",
+        "eorg": "SCHKL13DIST"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG ALLOW FOR BAD DEBT",
+        "fieldDescription": "Schedule L: Beginning allowance for bad debts",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE2BA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END INTANGIBLE ASSETS",
+        "fieldDescription": "Schedule L: End intangible assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE13AC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END MORTG & LOANS",
+        "fieldDescription": "Schedule L: Ending mortgages and RE loans",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE8D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E UNAPPROPRIATED BEG",
+        "fieldDescription": "Schedule L: Beginning retained earnings unappropriated",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE25B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L:TOT LIAB & EQUITY BEG",
+        "fieldDescription": "Schedule L: Beginning total liabilities and equity",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE27B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: LINE 6",
+        "fieldDescription": "Schedule M-1: Add line 1 through 5",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: NET INCOME PER BOOKS",
+        "fieldDescription": "Schedule M-1: Net income per books",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: TRAVEL & ENTERTAINMNT",
+        "fieldDescription": "Schedule M-1: Travel & entertainment",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE5C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: LINE 4",
+        "fieldDescription": "Schedule M-2: Add lines 1",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TOTAL PAYMENTS AND CREDITS",
+        "fieldDescription": "Total payments, credits, and section 965 net tax liability",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32H"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: R E UNAPPROPRIATED BEG",
+        "fieldDescription": "Schedule L: Beginning retained earnings unappropriated",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE25B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CORP NAME",
+        "fieldDescription": "Corporation name",
+        "formName": "FORM 8978",
+        "eorg": "CORPONE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FEIN",
+        "fieldDescription": "FEIN",
+        "formName": "FORM 8978",
+        "eorg": "FED.EIN"
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": null,
+        "taxReturnDescription": null,
+        "fieldName": null,
+        "fieldDescription": null,
+        "formName": null,
+        "eorg": null
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DATE OFFICER WILL SIGN",
+        "fieldDescription": "Please sign here - Date officer will sign return",
+        "formName": "FORM 1120",
+        "eorg": "SIGDATE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "OWN 20 PERCENT OF A CORP - Y",
+        "fieldDescription": "Did the corporation directly own 20% or more or directly or indirectly 50% or more of a corporation not on 851 - No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1734.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SALARIES AND WAGES",
+        "fieldDescription": "Salaries and wages",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE13C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DED DIV PD PREF STOCK",
+        "fieldDescription": "Schedule C: Special deduction  for dividends paid on certain preferred stock of public utilities",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE18"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIVIDENDS FROM FSC",
+        "fieldDescription": "Schedule C: Dividends from certain FSCs",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE12A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: GILTI",
+        "fieldDescription": "Global Intangible Low-Taxed Income",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 1042 AND 1042-S REQD-Y",
+        "fieldDescription": "During the corporation's tax year, did the corporation make any payments that would require it to file Forms 1042 and 1042-S? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: AMOUNT FROM FORM 8996",
+        "fieldDescription": "Amount from Form 8996",
+        "formName": "FORM 1120",
+        "eorg": "X10.1765.3"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L BEG ACCUM AMORTIZATION",
+        "fieldDescription": "Schedule L: Beginning net intangible assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE13BB"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: BOOK INCOME > TAX",
+        "fieldDescription": "Schedule M-1: Book income > tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE7O"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: END OFYR RET EARNINGS",
+        "fieldDescription": "Schedule M-2: End of year retained earnings",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INTEREST INCOME",
+        "fieldDescription": "Interest income",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "REFUNDABLE CREDITS FROM 4136",
+        "fieldDescription": "Refundable credits from Form 4136",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32G"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "REPAIRS",
+        "fieldDescription": "Repairs",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE14"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: OTHER DIV FOR CORP",
+        "fieldDescription": "Schedule C: Other dividends from foreign corporations",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE13"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: PREF STOC > 20% OWNED",
+        "fieldDescription": "Schedule C: Dividends preferred stock - certain 20% or more owned utility stocks",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE5A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: ALT MIN TAX",
+        "fieldDescription": "Schedule J: Alternative minimum tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE9A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: QUAL ZONE ACADEMY CR",
+        "fieldDescription": "Schedule J: Qualified zone academy bond credit",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLN11"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: WITHHOLDING",
+        "fieldDescription": "Withholding",
+        "formName": "FORM 1120",
+        "eorg": "X10.1747.6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 3 YR RECP > 500M-YES",
+        "fieldDescription": "Does the corporation have gross receipts of at least $500 million in any of the 3 preceding tax years? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: RECPT 500M IN 3 YRS-YES",
+        "fieldDescription": "Does the corporation have gross receipts of at least $500 million in any of the 3 preceding tax years? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1764.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG ACCUM AMORTIZATION",
+        "fieldDescription": "Schedule L: Beginning accumulated amortization",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE13BA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG DEPREC ASSETS",
+        "fieldDescription": "Schedule L: Beginning depreciable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLINE10AA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG INTANGIBLE ASSETS",
+        "fieldDescription": "Schedule L: Beginning intangible assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE13AA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG MRTG PAYABLE<1 YR",
+        "fieldDescription": "Schedule L: Beginning mortgages, notes payable, etc payable in less than one year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE17B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG OTH CURR LIABILITIE",
+        "fieldDescription": "Schedule L: Beginning other current liabilities",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE18B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEGINNING INVENTORY",
+        "fieldDescription": "Schedule L: Beginning inventory",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE3B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END NET T NOTES & AR",
+        "fieldDescription": "Schedule L: Ending net trade notes & AR",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE2BD"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END OTH CURR LIABL",
+        "fieldDescription": "Schedule L: Ending other current liabilities",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE18D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: EXEMPT INTEREST INC",
+        "fieldDescription": "Schedule M-1: Exempt interest income",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE7A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: TOT BOOK EXP > TAX",
+        "fieldDescription": "Schedule M-1: Other book expense greater thant tax",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE5D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M2: OTHER DECREASES",
+        "fieldDescription": "Schedule M-2: Other decreases",
+        "formName": "FORM 1120",
+        "eorg": "SCHM2LINE6"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TAX DEPOSITED WITH FORM 7004",
+        "fieldDescription": "Tax deposited with Form 7004",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE32E"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TOTAL DEDUCTIONS",
+        "fieldDescription": "Total deductions",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE27"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TOTAL NOL & SPEC DEDUCTIONS",
+        "fieldDescription": "Total NOL and special deductions",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE29C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG MRTG PAYABLE<1 YR",
+        "fieldDescription": "Schedule L: Beginning mortgages, notes payable, etc payable in less than one year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE17B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: EXEMPT INTEREST INC",
+        "fieldDescription": "Schedule M-1: Exempt interest income",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE7A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "BAD DEBTS",
+        "fieldDescription": "Bad debts",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE15"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "BAD DEBTS",
+        "fieldDescription": "Bad debts",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE15"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "CHECK IF FORM 2220 IS ATTACHED",
+        "fieldDescription": "Enter X if form 2220 is attached",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE33"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "DIVIDENDS",
+        "fieldDescription": "Dividends",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE4"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "INDICATE PERS SERVICE COMP",
+        "fieldDescription": "Enter X if personal service company",
+        "formName": "FORM 1120",
+        "eorg": "PSC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: DIV SUBJ TO 70%DED DOM",
+        "fieldDescription": "Schedule C: Dividends Less than 20% owned domestic corporations subject to 70% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE1A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SPEC PREF STOC< 20% OWN",
+        "fieldDescription": "Schedule C: Special deduction for certain less than 20% owned preferred stock of utility corporations",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE4C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH J: TOTAL CREDITS",
+        "fieldDescription": "Schedule J: Total credits",
+        "formName": "FORM 1120",
+        "eorg": "SCHJLINE5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - 25% FOREIGN OWNER N",
+        "fieldDescription": "Schedule K: Enter X if there was not a 25% or more foreign owner",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE10N"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - 25% FOREIGN OWNER Y",
+        "fieldDescription": "Schedule K: Enter X if there was a 25% or more foreign owner",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE10Y"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: EIN OF THE PARENT CORP",
+        "fieldDescription": "EIN of the parent corporation",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE4EIN"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: REQD TO FILE UTP-N",
+        "fieldDescription": "Is the corporation required to file Schedule UTP? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.2"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: REQD TO FILE UTP-Y",
+        "fieldDescription": "Is the corporation required to file Schedule UTP? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.1"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: SUB IN AFFIL GRP-Y",
+        "fieldDescription": "Is the corporation a subsidiary in an affiliated group or a parent-subsidiary controlled group? Yes",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE4Y"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG ACCOUNTS PAYABLE",
+        "fieldDescription": "Schedule L: Beginning accounts payable",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE16B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG NET T NOTES & AR",
+        "fieldDescription": "Schedule L: Beginning net trade notes & AR",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE2BB"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG TAX EXEMPT SECUR",
+        "fieldDescription": "Schedule L: Beginning tax exempt securities",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE5B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: COMMON STOCK C",
+        "fieldDescription": "Schedule L: Ending common stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22BC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: PERFERRED STOCK END",
+        "fieldDescription": "Schedule L: Ending preferred stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22AC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SIGNATURE TITLE",
+        "fieldDescription": "Signing officers title",
+        "formName": "FORM 1120",
+        "eorg": "SIGTITLE"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "BAD DEBTS",
+        "fieldDescription": "Bad debts",
+        "formName": "GENERAL OPTIONS",
+        "eorg": "PG1LINE15"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: COMMON STOCK C",
+        "fieldDescription": "Schedule L: Ending common stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22BC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: PERFERRED STOCK END",
+        "fieldDescription": "Schedule L: Ending preferred stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22AC"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "FOREGO NOL CARRYBACK",
+        "fieldDescription": "Corporation has an NOL for the tax year and is electing to forego the carryback period",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE14"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "GROSS ROYALTIES",
+        "fieldDescription": "Gross royalties",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "NOL DEDUCTION",
+        "fieldDescription": "NOL deduction",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE29A"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: CERTAIN FSC 100%",
+        "fieldDescription": "Schedule C: Special deduction for dividends from certain FSCs subject to 100% deduction",
+        "formName": "FORM 1120",
+        "eorg": "SCHCLINE12C"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: FORGN DIV FROM SFC",
+        "fieldDescription": "Foreign-source portion of dividends received from a specified 10%-owned foreign corporation",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.0"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH C: SECTION 250 DEDUCTION",
+        "fieldDescription": "Section 250 deduction",
+        "formName": "FORM 1120",
+        "eorg": "X10.1424.11"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K - DIV PD IN EXC OF E&P N",
+        "fieldDescription": "Schedule K: Enter X  - If dividends were paid in excess of E&P: No",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE6N"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: 80 PCT OWNERSHIP CHG-N",
+        "fieldDescription": "During this tax year, did the corporation have an 80% or more change in ownership, including a change due to redemption of its own stock? No",
+        "formName": "FORM 1120",
+        "eorg": "X10.1744.8"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: ACCOUNTING METHOD-ACRL",
+        "fieldDescription": "Check accounting method: acceual",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE1B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: DESCRIPTION-OTH METHOD",
+        "fieldDescription": "Other accounting method description",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE1OTHER"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: DISALLOW DED 267A-YES",
+        "fieldDescription": "During the tax year, did the corporation pay or accrue any interest or royalty for which the deduction is not allowed under section 267A? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.7"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: SUB IN AFFIL GRP-N",
+        "fieldDescription": "Is the corporation a subsidiary in an affiliated group or a parent-subsidiary controlled group? No",
+        "formName": "FORM 1120",
+        "eorg": "SCHKLINE4N"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: TOT RECT BELOW 250K-Y",
+        "fieldDescription": "Are the corporation's total receipts for the tax year and its total assets at the end of the tax year less than $250,000? Yes",
+        "formName": "FORM 1120",
+        "eorg": "SCHKL13Y"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH K: UNALLOW DED UNDR 267A-Y",
+        "fieldDescription": "During the tax year, did the corporation pay or accrue any interest or royalty for which the deduction is not allowed under section 267A? Yes",
+        "formName": "FORM 1120",
+        "eorg": "X10.1760.5"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG MORT PAYABLE>1 YR",
+        "fieldDescription": "Schedule L: Beginning mortgages, notes payable in more than one year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE20B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG TOTAL ASSETS",
+        "fieldDescription": "Schedule L: Beginning total assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE15B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG US GOVT OBLIGATIONS",
+        "fieldDescription": "Schedule L: Beginning US government obligations",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE4B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: END NET DEPL ASSETS",
+        "fieldDescription": "Schedule L: Ending net depletable assets",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE11D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: ENDING CASH",
+        "fieldDescription": "Schedule L: Ending cash",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE1D"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: PERFERRED STOCK BEG",
+        "fieldDescription": "Schedule L: Beginning preferred stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22AA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: CONTR CARRYOVR NOT DED",
+        "fieldDescription": "Schedule M-1: Contribution carryover",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE5B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH M1: LINE 9",
+        "fieldDescription": "Schedule M-1: Add lines 7 and 8",
+        "formName": "FORM 1120",
+        "eorg": "SCHM1LINE9"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "TOTAL TAX",
+        "fieldDescription": "Total tax",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE31"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: BEG MORT PAYABLE>1 YR",
+        "fieldDescription": "Schedule L: Beginning mortgages, notes payable in more than one year",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE20B"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "SCH L: PERFERRED STOCK BEG",
+        "fieldDescription": "Schedule L: Beginning preferred stock",
+        "formName": "FORM 1120",
+        "eorg": "SCHLLINE22AA"
+    },
+    {
+        "taxReturnType": "1120",
+        "taxReturnDescription": "CORPORATE",
+        "fieldName": "NOL DEDUCTION",
+        "fieldDescription": "NOL deduction",
+        "formName": "FORM 1120",
+        "eorg": "PG1LINE29A"
+    }
+]

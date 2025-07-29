@@ -1,0 +1,149 @@
+[
+  {
+    "Question": "First Name: Taxpayer's first name.",
+    "Eorg": "FED.TFIRST",
+    "Description": "Taxpayer's first name.",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TPFIRSTNAME"
+  },
+  {
+    "Question": "Last Name: Taxpayer's last name.",
+    "Eorg": "FED.TLAST",
+    "Description": "Taxpayer's last name.",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TPLASTNAME"
+  },
+  {
+    "Question": "Adjusted Gross Income (AGI): Total income minus adjustments.",
+    "Eorg": "FED.AGIP1",
+    "Description": "Adjusted Gross Income",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "AGI"
+  },
+  {
+    "Question": "Total Income: Sum of all income sources.",
+    "Eorg": "FED.TTLINC",
+    "Description": "Total income",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TOTAL INCOME"
+  },
+  {
+    "Question": "Taxable Income: Income after deductions.",
+    "Eorg": "FED.TAXINC",
+    "Description": "Taxable Income",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TAXINCOME"
+  },
+  {
+    "Question": "Filing Status: Single, Married Filing Jointly, etc.",
+    "Eorg": "FED.FS",
+    "Description": null,
+    "Form_Name": null,
+    "Field_Name": null
+  },
+  {
+    "Question": "Filing Status: Single, Married Filing Jointly, etc.",
+    "Eorg": "FED.SINGLE1",
+    "Description": "Single Filing Status",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "SING STATUS"
+  },
+  {
+    "Question": "Tax Liability: Total tax owed before payments/credits.",
+    "Eorg": "FED.CREDLTAX",
+    "Description": "The total amount of taxes assessed in the current tax year.",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TOTAL TAX AMOUNT"
+  },
+  {
+    "Question": "Tax Payments and Credits: Withholding, estimated payments, refundable credits.",
+    "Eorg": "X133.891.18",
+    "Description": "Total amount of refundable credits",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TTL REFUNDABLE CREDITS"
+  },
+  {
+    "Question": "Tax Payments and Credits: Withholding, estimated payments, refundable credits.",
+    "Eorg": "FED.TTLPAYMTS",
+    "Description": "Total Payments",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "TOTPYMTS"
+  },
+  {
+    "Question": "Refund Amount: If applicable.",
+    "Eorg": "FED.OVERPAID",
+    "Description": "Amount overpaid",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "OVERPAID"
+  },
+  {
+    "Question": "Tax Owed: Balance due after credits/payments.",
+    "Eorg": "FED.OWED",
+    "Description": "Amount due on the return",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "AMTDUE"
+  },
+  {
+    "Question": "Income Sources: Wages, interest, dividends, capital gains, business income, retirement distributions, etc.",
+    "Eorg": null,
+    "Description": null,
+    "Form_Name": "FORM 1040",
+    "Field_Name": null
+  },
+  {
+    "Question": "Itemized Deductions vs. Standard Deduction: Amounts and types.",
+    "Eorg": "FED.XITEMSTD",
+    "Description": "Enter X if itemized deductions",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "DEDUCTION"
+  },
+  {
+    "Question": "Itemized Deductions vs. Standard Deduction: Amounts and types.",
+    "Eorg": null,
+    "Description": "Amount of Standard or Itemized Deductions",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "STD OR ITEM DEDUCTION"
+  },
+  {
+    "Question": "Dependents Claimed: Number and details.",
+    "Eorg": null,
+    "Description": null,
+    "Form_Name": "FORM 1040",
+    "Field_Name": null
+  },
+  {
+    "Question": "Tax Credits Claimed: e.g., Child Tax Credit, Education Credits.",
+    "Eorg": "X133.891.3",
+    "Description": "Child Tax Credit and Credit for Other Dependents",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "CHILDTAXCR"
+  },
+  {
+    "Question": "Tax Credits Claimed: e.g., Child Tax Credit, Education Credits.",
+    "Eorg": "X133.938.3",
+    "Description": "Schedule 3 nonrefundable credits",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "SCH 3 NONREFUNDABLE CR"
+  },
+  {
+    "Question": "Other Taxes: Self-employment tax, alternative minimum tax (AMT), net investment income tax, etc.",
+    "Eorg": "FED.SUMOTHER",
+    "Description": "Other taxes from Schedule 4",
+    "Form_Name": "FORM 1040",
+    "Field_Name": "OTHER TAXES"
+  },
+  {
+    "Question": "State of Residency or Filing: For geographic insights.",
+    "Eorg": null,
+    "Description": null,
+    "Form_Name": "FORM 1040",
+    "Field_Name": null
+  },
+  {
+    "Question": "Year-over-Year Changes: Comparing multiple years’ returns.",
+    "Eorg": null,
+    "Description": null,
+    "Form_Name": "FORM 1040",
+    "Field_Name": null
+  }
+]
